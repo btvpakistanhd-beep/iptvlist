@@ -3,36 +3,64 @@
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="Микс" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg",312
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="Комедии",Comedy Central English
-http://208.86.19.13:81/22.stream/index.m3u8
 #EXTINF:-1 ,Кино 1 International HD
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES",START WORLD
-https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
-#EXTINF:-1 group-title="MOVIES",START AIR
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="MOVIES",KINO 1 INTERNATIONAL
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="MOVIES",NASHE LUBIMOE KINO
 https://s7.merlive.am/lubimoekino/index.m3u8
 #EXTINF:-1 group-title="MOVIES;SERIES",BOLT
 http://95.142.88.250:80/Bolt/index.m3u8
-#EXTINF:-1 ,Комедийное HD
-http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/912/index.m3u8
-#EXTINF:-1 group-title="Хиты",Kion Хит
-http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt
 #EXTINF:-1 ,Hollywood
 http://iptv.prosto.tv:7000/ch157/video.m3u8
 #EXTINF:-1 ,Enter-фільм
 http://iptv.prosto.tv:7000/ch54/video.m3u8
 #EXTINF:-1 ,Еврокино HD
 http://mfe01.cliptv.az/dash/Evrokino_SDas67gh.ism/playlist.mpd
-#EXTINF:-1 ,VIP Serial
-http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/50Wp1JKc/433d83f7e481f35245f8c6bb7c7591d8.gif",Обновление:29.12.2023
-https://drive.google.com/uc?export=download&id=1yIEU9E6mr07jAA4p71w_lPbdhwjtYcBK
 #EXTINF:-1 ,A2
 http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 ,Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 ,TV1000 Русское кино
+http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
+#EXTINF:-1 ,Кинохит
+http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
+#EXTINF:-1 ,Кинопремьера HD
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
+#EXTINF:-1 ,Киносемья
+http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:-1 ,Индийское кино
+http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
+#EXTINF:-1 ,Киносвидание
+http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:-1 ,Мужское кино
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+#EXTINF:-1 ,Киномикс
+http://mfe02.cliptv.az/dash/Kinomix_SDvbbvbv3.ism/playlist.mpd
+#EXTINF:-1 ,Киносерия
+http://mfe01.cliptv.az/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:-1 ,Родное кино
+http://mfe02.cliptv.az/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
+#EXTINF:-1 ,Наше новое кино
+http://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
+#EXTINF:-1 ,Кинокомедия
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:-1 ,Дом Кино Премиум HD
+http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
+#EXTINF:-1 ,Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 ,Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 ,Cinema
+http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
+#EXTINF:-1 ,CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 ,Cinema + (720p)
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+#EXTINF:-1 ,CineView
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1 ,Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1 ,SONY SCI-FI
 http://5bb2f84d.suklakakl.site/iptv/KSM267HD3WH36Y/110/index.m3u
 #EXTINF:-1 ,SONY TURBO
@@ -55,6 +83,8 @@ http://5bb2f84d.suklakakl.site/iptv/KSM267HD3WH36Y/148/index.m3u
 http://5bb2f84d.suklakakl.site/iptv/KSM267HD3WH36Y/516/index.m3u
 #EXTINF:-1 ,Кино тв
 http://5bb2f84d.suklakakl.site/iptv/KSM267HD3WH36Y/732/index.m3u
+#EXTINF:-1 ,КиноМеню HD
+http://uiptv.do.am/1ufc/229011129/playlist.m3u8
 #EXTINF:-1 ,КиноМикс
 http://5bb2f84d.suklakakl.site/iptv/KSM267HD3WH36Y/509/index.m3u
 #EXTINF:-1 ,КиноМикс
@@ -83,65 +113,67 @@ http://4715c1ca.suklakakl.ru/iptv/KF23YMP66GUGT5/906/index.m3u8
 http://4715c1ca.suklakakl.ru/iptv/KF23YMP66GUGT5/508/index.m3u8
 #EXTINF:-1 ,нст
 http://5bb2f84d.suklakakl.site/iptv/KSM267HD3WH36Y/726/index.m3u
-#EXTINF:-1 ,TV1000 Action
-http://iptv.prosto.tv:7000/ch47/video.m3u8
-#EXTINF:-1 ,TV1000 World Kino
-http://iptv.prosto.tv:7000/ch48/video.m3u8
-#EXTINF:-1 ,Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 ,Нове тв
-https://novoe.top/nove_tv.m3u8.jpg?m3u8
-#EXTINF:-1 ,TV1000 Русское кино
-http://mfe01.cliptv.az/dash/TV1000_Russkoe_Kino_SD_ghhkklhgjh.ism/playlist.mpd
-#EXTINF:-1 ,Кинохит
-http://mfe01.cliptv.az/dash/Kinohit_SDqwecvrt672.ism/playlist.mpd
-#EXTINF:-1 ,Кинопремьера HD
-http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
-#EXTINF:-1 ,Киносемья
-http://mfe01.cliptv.az/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
-#EXTINF:-1 ,Индийское кино
-http://mfe01.cliptv.az/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
-#EXTINF:-1 ,Киносвидание
-http://mfe02.cliptv.az/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
-#EXTINF:-1 ,Мужское кино
-http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
-#EXTINF:-1 ,Киномикс
-http://mfe02.cliptv.az/dash/Kinomix_SDvbbvbv3.ism/playlist.mpd
-#EXTINF:-1 ,Киносерия
-http://mfe01.cliptv.az/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
-#EXTINF:-1 ,Родное кино
-http://mfe02.cliptv.az/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
-#EXTINF:-1 ,Наше новое кино
-http://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
-#EXTINF:-1 ,Кинокомедия
-http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
-#EXTINF:-1 ,Дом Кино Премиум HD
-http://mfe01.cliptv.az/dash/Dom_Kino_Premium_HDsdfgio81.ism/playlist.mpd
-#EXTINF:-1 ,Дом кино
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/154/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Наше новое кино
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/517/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Киносвидание
-http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,TV1000 Русское кино
-http://myott.top/stream/DT6QU63K5VX/123.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,Кино 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 ,Музыка Кино International
-https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 ,Televize FILMpro (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCijOX8ka7E2cBsULVgY50QA.m3u8
-#EXTINF:-1 ,НТВ Сериал
+#EXTINF:-1 group-title="РУССКИЙ КИНОЗАЛ",ФЕНИКС ПЛЮС КИНО HD
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 group-title="РУССКИЙ КИНОЗАЛ",START AIR HD
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 group-title="КИНОЗАЛ",START WORLD HD
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 group-title="США",CINEMAX EAST HD
+http://fl3.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 group-title="CASPEL",HOLLYWOOD
+http://mfe01.cliptv.az/dash/Hollywood_SDkhg357.ism/playlist.mpd
+#EXTINF:-1 group-title="CASPEL",VIP SERIAL HD
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 group-title="CASPEL",TV XXI
+http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
+#EXTINF:-1 group-title="CASPEL",AMEDIA PREMIUM HD
+http://mfe02.cliptv.az/dash/Amedia_Premium_HD_PIVghghgh56.ism/playlist.mpd
+#EXTINF:-1 group-title="CASPEL",TV1000
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
+#EXTINF:-1 group-title="CASPEL",.SCI-FI
+http://mfe01.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
+#EXTINF:-1 group-title="CLOUDFLARE INC (VPN",НТВ СЕРИАЛ
 https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
-#EXTINF:-1 ,Cinema
-http://mfe01.cliptv.az/dash/Cinema_SDjhjhjh56.ism/playlist.mpd
-#EXTINF:-1 ,CineLife
-https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 ,Cinema + (720p)
-https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
-#EXTINF:-1 ,CineView
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
-#EXTINF:-1 ,Kuriakos Cine (1080p)
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 ,WOWOW Cinema (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 group-title="UNDEFINED",ДОМ КИНО
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/154/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="UNDEFINED",КИНОСВИДАНИЕ
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="UNDEFINED",ОСТРОСЮЖЕТНОЕ HD
+http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/904/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="UNDEFINED",НАШЕ НОВОЕ КИНО
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/517/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="UNDEFINED",РУССКИЙ ДЕТЕКТИВ
+http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/907/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="UNDEFINED",НАШЕ КРУТОЕ HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="КИНО",TV1000 ACTION HD
+http://myott.top/stream/DT6QU63K5VX/100.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="КИНО",TV1000 EAST HD
+http://myott.top/stream/DT6QU63K5VX/110.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="КИНО",TV1000 РУССКОЕ КИНО
+http://myott.top/stream/DT6QU63K5VX/123.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="CLOUDFLARE INC (VPN",КИНЕКО
+https://livetv.mylifeisgood.net.ru/channels/fox.m3u8
+#EXTINF:-1 group-title="CLOUDFLARE INC (VPN",VIP MEGAHIT HD
+https://livetv.mylifeisgood.net.ru/channels/vip_megahit.m3u8
+#EXTINF:-1 group-title="CLOUDFLARE INC (VPN",VIP COMEDY HD
+https://livetv.mylifeisgood.net.ru/channels/vip_comedy.m3u8
+#EXTINF:-1 group-title="CLOUDFLARE INC (VPN",VIP PREMIERE HD
+https://livetv.mylifeisgood.net.ru/channels/vip_premiere.m3u8
+#EXTINF:-1 group-title="CLOUDFLARE INC (VPN",VIP SERIAL HD
+https://livetv.mylifeisgood.net.ru/channels/vip_serial.m3u8
+#EXTINF:-1 group-title="CLOUDFLARE INC (VPN",TV1000 HD
+https://livetv.mylifeisgood.net.ru/channels/tv1000.m3u8
+#EXTINF:-1 group-title="CLOUDFLARE INC (VPN",TV1000 ACTION HD
+https://livetv.mylifeisgood.net.ru/channels/tv1000action.m3u8
+#EXTINF:-1 group-title="CLOUDFLARE INC (VPN",TV1000 РУССКОЕ КИНО HD
+https://livetv.mylifeisgood.net.ru/channels/tv1000ruskino.m3u8
+#EXTINF:-1 group-title="CLOUDFLARE INC (VPN",ФЕНИКС+КИНО
+https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
+#EXTINF:-1 group-title="CATCAST TV 🐈 NOT 24",СИТИ ЭДЕМ - КИНОЭКШЕН
+https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="CATCAST TV 🐈 NOT 24",СИТИ ЭДЕМ - КИНОМИСТИКА
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1 group-title="CATCAST TV 🐈 NOT 24",ДЕТСКОЕ КИНО INTERNATIONAL
+https://v2.catcast.tv/content/38720/index.m3u8
