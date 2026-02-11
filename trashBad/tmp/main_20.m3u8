@@ -1,0 +1,367 @@
+#EXTM3U
+#EXTINF:-1 ,TPA Noticias
+https://live20.bozztv.com/dvrfl06/astv/astv-tpaint/index.m3u8
+#EXTINF:-1 group-title="Ivory Coast(Côte d’Ivoire)" tvg-logo="https://ulango.tv/uploads/channels/16278/logo_rti%205.png",RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ivory Coast(Côte d’Ivoire)" tvg-logo="https://ulango.tv/uploads/channels/8150/rti_tv2_ci.png",RTI 2
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+#EXTINF:-1 ,People are Awesome
+https://jukin-peopleareawesome-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Trace Sport Stars (1080p) [Geo-blocked]
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
+#EXTINF:-1 group-title="FINLAND" tvg-logo="http://logowow.net/logos/5HLJEvTYv.png",YLE TV 1
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
+#EXTINF:-1 group-title="FINLAND" tvg-logo="http://yle.fi/vintti/yle.fi/tv2/sites/tv2.yle.fi/files/katsojapalaute-logo.gif",YLE TV 2
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
+#EXTINF:-1 group-title="Myanmar(မြန်မာဘာသာ)" tvg-logo="https://i.imgur.com/afuGFku.jpg",Channel K
+http://172.104.60.242/live/livestream.m3u8
+#EXTINF:-1 group-title="Myanmar(မြန်မာဘာသာ)" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/01/mvm.jpg",MVTV Myanmar
+https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w2034544246.m3u8
+#EXTINF:-1 ,ViàATV (1080p) [Geo-blocked]
+https://streamer01.myvideoplace.tv/streamer02/hls/ATV_DIRECT_EV_111018.m3u8
+#EXTINF:-1 ,MBC 4
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel4/index.m3u8
+#EXTINF:-1 ,MBC 3
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel3/index.m3u8
+#EXTINF:-1 ,MBC 2
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
+#EXTINF:-1 ,MBC 5
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8
+#EXTINF:-1 ,MBC 1
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel1/index.m3u8
+#EXTINF:-1 ,ATV
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 ,ATV
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan(Azərbaycan)" tvg-logo="http://atv.az/assets/images/logo_white.png",ATV -2 Saat
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 group-title="Azerbaijan(Azərbaycan)" tvg-logo="http://kepez.arbtv.az/assets/uploads/sites/logo.png",Kəpəz TV
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 ,Nos TV Bonaire (1080p)
+http://streaming.flamingotv.net/nostv/live.m3u8
+#EXTINF:-1 ,Voz Di Bonaire TV (720p)
+https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8
+#EXTINF:-1 ,Island Luck TV
+https://cdn3.wowza.com/5/dFA0TmRpeFdNVXhT/NetUp/ILTV.stream/playlist.m3u8
+#EXTINF:-1 ,Intermediate League Curaçao [Geo-blocked]
+https://streannlivecariflix.cachefly.net/cariflix12/cariflix12/playlist.m3u8
+#EXTINF:-1 ,Nos Païs (720p) [Not 24/7]
+https://5f86a49aedff6.streamlock.net/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
+#EXTINF:-1 ,Fashion TV (576p) [Not 24/7]
+https://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/playlist.m3u8
+#EXTINF:-1 ,Fashion TV Paris (144p)
+https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 ,Fashion TV PG16 (144p)
+https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="Ghana" tvg-logo="https://sampsonamoateng.net/wp-content/uploads/2018/08/SAM-LOGO-JPEG-e1535293984113.jpeg",SAM TV
+https://streaming.viewsat.eu/viewsatstream22/viewsatstream22.smil/playlist.m3u8
+#EXTINF:-1 group-title="GHANA" tvg-logo="http://channelpear.com/images/media/6814.jpg",TV Africa (Ghana)
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1 ,FL Sport (1080p)
+https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
+#EXTINF:-1 ,Guyana Government Information (1080p)
+https://tvsw4-hls.secdn.net/tvsw4-chorigin/play/prod-ee2570f630944d15992df8863b9283cc/playlist.m3u8
+#EXTINF:-1 ,HGPTV (1080p) [Not 24/7]
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/ABR1080v1/streams/284fce39-4456-2c6b-414a-1d41a03d17dd_1080p2500kbps.m3u8
+#EXTINF:-1 ,Failarmy International
+https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Go USA
+https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,People are Awesome
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Weatherspy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Althingi (1080p) [Not 24/7]
+https://althingi-live.secure.footprint.net/althingi/live/index.m3u8
+#EXTINF:-1 ,Omega (1080p)
+https://196914.global.ssl.fastly.net/63fe5f3a8f037f47ac36fb2a/live_1d411f00b7a411eda9b5d3bb4704377e/index.m3u8
+#EXTINF:-1 ,RÚV 2 (1080p)
+https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
+#EXTINF:-1 ,Korean Central Television (576p)
+https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 group-title="Malta" tvg-logo="http://www.evoiptv.com/evotv%20icons/New%20IPTV%20Icons/discovermalta.png",Discover Malta
+http://www.evoiptv.com/hlsdiscover/hlsdiscover.m3u8
+#EXTINF:-1 group-title="Malta" tvg-logo="http://www.evoiptv.com/evotv%20icons/PM.png",Drama
+http://www.evoiptv.com/hlsdrama/hlsdrama.m3u8
+#EXTINF:-1 group-title="Music",MVTV [720p]
+http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
+#EXTINF:-1 group-title="Malta" tvg-logo="http://www.evoiptv.com/evotv%20icons/tfal.png",Splaxxx
+http://www.evoiptv.com/hlskids/hlskids.m3u8
+#EXTINF:-1 ,Canal 3 Bénin (720p)
+https://live.creacast.com/bluediamond/stream/playlist.m3u8
+#EXTINF:-1 ,Etélé (360p) [Not 24/7]
+https://livetvsteam.com:1936/etelebenin/etelebenin/playlist.m3u8
+#EXTINF:-1 ,Le Nouveau Manager TV
+https://lnmlive.com/hls/stream.m3u8
+#EXTINF:-1 ,Baywatch
+https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,DryBar Comedy
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Haunt TV
+https://blueantmediacanada-haunttv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Heartland
+https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
+#EXTINF:-1 ,InWonder (720p)
+https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,MHZ
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,People are Awesome
+https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Beb TV (720p)
+https://live-hls-qunv.livepush.io/live_cdn/em8A-kbzIfHqu73/index.m3u8
+#EXTINF:-1 ,Nazali's HDTV (1080p)
+http://194.163.135.238:5080/WebRTCApp/streams/590264631485484547459082.m3u8
+#EXTINF:-1 ,Télé Congo (720p)
+http://51.254.199.122:8080/telecongo/index.m3u8
+#EXTINF:-1 ,Esaie 45 Tele
+http://dvrfl05.bozztv.com/gin-esaie45/index.m3u8
+#EXTINF:-1 ,Tele Congo
+http://trn03.bozztv.com/gin-telecongo/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_1b36cfb0ba2411ee9700956e0f7084c8
+https://stream.castr.com/62c18c3f14d09a0b7e5355a5/live_1b36cfb0ba2411ee9700956e0f7084c8/index.fmp4.m3u8
+#EXTINF:-1 ,TV3
+https://fl1002.bozztv.com/ga-algeria3/index.m3u8
+#EXTINF:-1 ,4Kids TV
+http://149.100.19.147:8000/play/a02t
+#EXTINF:-1 ,Nesiha TV (720p)
+https://ffs3.gulfsat.com/Nesiha-TV/video.m3u8
+#EXTINF:-1 ,Walta TV (614p)
+https://live.zergaw.et/hls/1234.m3u8
+#EXTINF:-1 group-title="Music",1 Music Channel [576p]
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1 group-title="Religious",Bonum TV [400p]
+https://cdn.y5.hu:443/stream/bonum/hls/stream.m3u8?
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.iptv-epg.com/tr/Filmbox.hu.png",FilmBox
+http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1071/index.m3u8
+#EXTINF:-1 ,FIX [360p]
+https://fixhd.tv:8082/fix/sd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music",MYHIT [576p]
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1 ,TV10 KŐBÁNYA
+http://78.46.196.104:1935/live/tv10/playlist.m3u8?_=3245153
+#EXTINF:-1 group-title="News" tvg-logo="https://static.iptv-epg.com/ie/RTENewsNow.ie.png",RTE News Now
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1 group-title="IRELAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg",Setanta Sports
+http://ott-cdn.ucom.am/s81/04.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Ireland" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png",Sky Sports Premier Ireland
+http://gorillaiptv.online:25461/BWwGoSiTGA/Te91NfmvAC/943
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 group-title="ICELAND" tvg-logo="http://www.icelandwintergames.com/static/gallery/partners-1/.thumb/n4.png",N4
+http://tv.vodafoneplay.is/n4/03.m3u8
+#EXTINF:-1 ,Omega TV (Iceland)
+http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8
+#EXTINF:-1 group-title="ICELAND" tvg-logo="http://www.ruv.is/sites/all/themes/at_ruv/images/default-image-1200x750.png",RUV
+http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+#EXTINF:-1 group-title="Iceland(Ísland)" tvg-logo="http://www.ruv.is/sjonvarp/static/media/RUV2_192.9247daaf.png",RUV 2
+http://ruvruv2erl-live.hls.adaptive.level3.net//ruv/ruv2erl/index/stream5.m3u8
+#EXTINF:-1 group-title="Kenya" tvg-logo="https://3dwnh01icn0h133s00sokwo1-wpengine.netdna-ssl.com/wp-content/themes/citizennews_new/images/citizen-digital-logo.png",Citizen TV
+https://vidhttps.r.worldssl.net/citizentv-origin/liveabr/citizentv-origin/live2/chunks.m3u8
+#EXTINF:-1 group-title="Kenya" tvg-logo="http://inoorotv.co.ke/wp-content/themes/inoorotv/images/inoorotv_logo.png",Inooro TV
+https://vidhttps.r.worldssl.net/inoorotv-origin/liveabr/inoorotv-origin/live3/chunks.m3u8
+#EXTINF:-1 group-title="Kenya" tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png",Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 ,LRT Klasika (1080p)
+https://radijas.lrt.lt/klasika/master.m3u8
+#EXTINF:-1 ,LRT Opus (1080p)
+https://radijas.lrt.lt/opus/master.m3u8
+#EXTINF:-1 ,LRT Radijas (1080p)
+https://radijas.lrt.lt/radijas/master.m3u8
+#EXTINF:-1 ,Just TV
+https://fenixstream2.online/memfs/0ac46a4f-71ea-4bf7-bb62-312df327b6c8.m3u8
+#EXTINF:-1 ,Folk TV (MK)
+http://51.254.45.61:8080/hls/folkmk2.m3u8
+#EXTINF:-1 group-title="MACEDONIA" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png",Plus TV
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1 group-title="Music",Sky Folk Makedonija
+http://178.132.6.97:8080/SkyFolkMakedonija1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MACEDONIA" tvg-logo="https://yt3.ggpht.com/-R8suY1txhzs/AAAAAAAAAAI/AAAAAAAAAAA/_77de3FYqV8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",TVPlus (Opt-1)
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:-1 ,Channel 7 (720p)
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#EXTINF:-1 ,Channel K (720p)
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
+#EXTINF:-1 ,MCS (720p)
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
+#EXTINF:-1 ,MN TV (720p)
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 ,MRTV 4 (1080p)
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:-1 group-title="Nigeria(Naija)" tvg-logo="https://www.acnntv.com/wp-content/uploads/2018/02/428ddc9c-2e6d-47b4-aa1e-85b0f9212c7a-300x54.jpg",Anglican Cable Network Nigeria
+https://streaming.viewsat.eu/viewsatstream14/viewsatstream14.smil/playlist.m3u8
+#EXTINF:-1 group-title="Nigeria(Naija)" tvg-logo="http://www.bridetvstreaming.org/Logo.png",Bride TV
+https://streaming.viewsat.eu/viewsatstream13/viewsatstream13.smil/playlist.m3u8
+#EXTINF:-1 group-title="Nigeria(Naija)" tvg-logo="http://dovevision.org/wp-content/uploads/2017/12/logo.png",Dove TV
+https://streaming.viewsat.eu/viewsatstream03/viewsatstream03.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Nigeria(Naija)" tvg-logo="https://www.dunamisgospel.org/images/digc_logo.png",Dunamis TV
+https://streaming.viewsat.eu/viewsatstream04/viewsatstream04.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Nigeria(Naija)" tvg-logo="https://www.loveworldplus.tv/wp-content/uploads/2016/09/logo_small1.png",Love World Plus TV
+http://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_628.m3u8
+#EXTINF:-1 group-title="Nigeria(Naija)" tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/sites/25/2016/11/logo_naija-1.png",Trace Naija
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1 ,Fatstone.TV [576p]
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+#EXTINF:-1 ,KANAL 10 Norge [576p]
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",MTV (Norg) [720p]
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="Norway(Norge)" tvg-logo="https://silence.world/assets/images/ui/small-full-logo.png",Silence TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 ,STORTINGET
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+#EXTINF:-1 ,Oman Althakafia (1080p)
+https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,Oman Mubashir (1080p)
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,Oman Sports TV (1080p) [Not 24/7]
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,Oman TV (1080p)
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 ,Oman TV
+http://trn03.bozztv.com/gin-omantv/index.m3u8
+#EXTINF:-1 group-title="Panama" tvg-logo="http://userscontent2.emaze.com/images/44097fec-bf00-470d-8a3d-305eb132803d/ec0a862a-dd2f-450c-9473-f135041c5312.png",Nex 21
+http://198.1.117.5:1935/live/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png",NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://www.rpcradio.com/images/a/logo-rpcradio.png",RPC Radio
+http://cdnlive.medcom.com.pa/rpcradio/source/chunks.m3u8
+#EXTINF:-1 group-title="PANAMA" tvg-logo="http://images.telemetro.com/radio/Especial-Telemetro-Radio_MEDDIR20160128_0004_47.jpg",Telemetro Radio
+http://cdnlive.medcom.com.pa/tmradio/source/chunks.m3u8
+#EXTINF:-1 ,A2Z (360p) [Not 24/7]
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
+#EXTINF:-1 ,CLTV 36 (720p) [Not 24/7]
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1 ,INC TV (720p) (720p) [Geo-blocked]
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+#EXTINF:-1 ,Super Radyo DZBB (720p) [Not 24/7]
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 ,INC TV
+https://stream-199211.castr.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/rewind-7200.m3u8
+#EXTINF:-1 ,Mindanow Network TV
+https://streams1.comclark.com/overlay/mindanow/playlist.m3u8
+#EXTINF:-1 ,A21 VITAL AUTOSPORT [Not 24/7]
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 ,Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/playlist.m3u8
+#EXTINF:-1 ,НТВ +1
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:-1 ,НТВ +2
+https://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 ,НТВ +4
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 ,НТВ +7
+https://cdn.ntv.ru/ntv7/playlist.m3u8
+#EXTINF:-1 ,НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 ,НТВ Право
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 ,НТВ Стиль
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 ,НТВ Хит
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 ,History Channel (1080p)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 ,Kanal A
+https://streamer01.xploretv.si/__cl/cg:prod/__c/A1_SI_AKANALHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 ,SLO 1
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO1HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 ,SLO 2
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO2HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 ,SLO 3
+https://streamer03.xploretv.si/__cl/cg:prod/__c/A1_SI_SLO3HD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
+#EXTINF:-1 ,ELHIWAR ETTOUNSI
+http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/91.m3u8
+#EXTINF:-1 group-title="CCTV",Jawhara FM [720p]
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",TunisiaNat1
+http://62.210.141.179:8000/live/ibrahim/123456/241.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tunisie Immob
+http://62.210.141.179:8000/live/ibrahim/123456/1380.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tunisna
+http://62.210.141.179:8000/live/ibrahim/123456/240.m3u8
+#EXTINF:-1 ,RTK 1 HD
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 ,RTK 1 HD
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kosovo(Kosovës)" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk2.png",RTK 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kosovo(Kosovës)" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk3.png",RTK 3
+http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kosovo(Kosovës)" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk4.png",RTK 4
+http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-1 ,1KZN TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 ,Cape Town TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,Faith TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
+#EXTINF:-1 ,Soweto TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+#EXTINF:-1 ,Tshwane TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+#EXTINF:-1 ,TV BRICS Africa (1080p)
+https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
+#EXTINF:-1 ,Televisão de Moçambique
+http://196.28.226.121:1935/live/smil:Channel1.smil/chunklist_b714000_slpor.m3u8
+#EXTINF:-1 group-title="Mozambique" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/sites/24/2016/11/logo_toca-1.png",Trace Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1 group-title="Mozambique" tvg-logo="https://d2q0xv3544jvkb.cloudfront.net/images/programacao/novosb/TVM2-GERALW.jpg",TVM Internacional
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
+#EXTINF:-1 ,TVM (480p)
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 ,TVM (480p) [Not 24/7]
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1 ,TVM Internacional (480p) [Not 24/7]
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 ,Indigenous Television (720p)
+https://np.truestreamz.com/broadcaster/INDIGENOUSmob.stream/playlist.m3u8
+#EXTINF:-1 ,Paryawaran TV (1080p)
+https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8
+#EXTINF:-1 group-title="Phillippines(Pilipinas)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/ABS-CBN_%282013%29.svg/1200px-ABS-CBN_%282013%29.svg.png",ABS-CBN
+http://185.246.209.218:80/philbrousseau@hotmail.com/c6u4UIw55z/29702
+#EXTINF:-1 group-title="Phillippines(Pilipinas)" tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png",UNTV Public
+https://untv.mmdlive.lldns.net/untv/71b244db6e8f4c93a68737f025340f8f/chunklist_b2592000.m3u8
+#EXTINF:-1 ,KANAL 10 SV [576p]
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+#EXTINF:-1 group-title="SWEDEN" tvg-logo="https://cdn.firstonetv.eu/images/logos/se/OEPPNA.png",Oppna Kanalen
+http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.elim_tv_sv.png.83b0db6607ef8f4c42d5a3798db5f843.png",Elim TV (El Salvador)
+http://live-15.viewer.dacast.com:80/i/dclive_1@397642/master.m3u8
+#EXTINF:-1 group-title="EL SALVADOR" tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg",TVO Canal 23 (Opt-2)
+http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Canales Salvadoreños",WOW TV SD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 ,El Watania 2
+https://fl1002.bozztv.com/ga-elwatania2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,El Watania 1
+https://fl1002.bozztv.com/ga-elwatania1/index.m3u8
+#EXTINF:-1 ,Nessma El Jadida
+https://fl1002.bozztv.com/ga-nessmatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Mosaique FM (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/63_mosaique-fm_rn56tgl/playlist_dvr.m3u8
+#EXTINF:-1 ,Jawhara TV (720p) [Not 24/7]
+https://streaming.toutech.net/live/jtv/index.m3u8
+#EXTINF:-1 ,Dounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-douniatv/index.m3u8
+#EXTINF:-1 ,Saraounia TV
+https://live20.bozztv.com/dvrfl06/astv/astv-saraouna/index.m3u8
+#EXTINF:-1 ,Canal 3 Monde
+https://live20.bozztv.com/dvrfl06/astv/astv-canal3benin1/index.m3u8
+#EXTINF:-1 ,CANAL 13 DE PUERTO RICO
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/chunklist_w333080128.m3u8
+#EXTINF:-1 ,Canal 13 Puerto Rico
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+#EXTINF:-1 group-title="Canales Puertorriqueños",Teleuniverso HD
+http://ss1.domint.net:2302/tu_str/universo/playlist.m3u8
+#EXTINF:-1 ,Africa TV 2 (720p)
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1 ,Sudan TV (480p)
+http://trn03.bozztv.com/gin-sudantv/index.m3u8

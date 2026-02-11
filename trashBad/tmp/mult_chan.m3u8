@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="KIDS",DUCKTV (720P)
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
+#EXTINF:-1 group-title="KIDS",BABYFIRST
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 ,Nick Jr. HD
+http://saveukraine.only4.tv/5515/video.m3u8?token=saveUkrain
+#EXTINF:-1 ,Nickelodeon Spain
+http://185.189.225.150:85/nickelodeon/index.m3u8
+#EXTINF:-1 ,Retrô Cartoon (480p) [Not 24/7]
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 ,13 Kids (1080p)
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
+#EXTINF:-1 ,312 KIDS
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 ,Aghapy Kids (1080p)
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:-1 ,Baby Shark TV (1080p)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8

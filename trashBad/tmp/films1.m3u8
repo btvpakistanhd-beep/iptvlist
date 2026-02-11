@@ -1,0 +1,369 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",AMC East (1080p)
+https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png",BIZ Cinema (1080p)
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/ZkRQ0r1.png",Crave 1
+https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/kOi0Adn.png",Crave 3
+https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/j27hBV04/fxm.png",FXM East
+https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/GPRGA9C.png",Hallmark Movies Mysteries East
+https://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/512px-Kino_Barrandov_logo.png",Kino Barrandov (720p)
+http://83.167.253.107/hdmi1_ext
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.postimg.cc/RZGmYyTt/lifetimemovies.png",Lifetime Movies East
+https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png",MGM+ East
+https://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title="Movies;Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",Paramount Network East
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png",Sundance TV East
+https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
+#EXTINF:-1 ,2 серія Розтин покаже  1 сезон
+https://e12p.starlight.digital/get-playlist/hls-vod/files/56/53/1665356/lq.mp4/index.m3u8
+#EXTINF:-1 ,20 серія Розтин покаже  1 сезон
+https://e13p.starlight.digital/get-playlist/hls-vod/files/84/69/1696984/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",1 серія Розтин покаже  1 сезон
+https://e12p.starlight.digital/get-playlist/hls-vod/files/36/53/1665336/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",10 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/88/76/1677688/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",11 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/80/92/1679280/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",12 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/80/05/1680580/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",13 серія Розтин покаже  1 сезон
+https://e12p.starlight.digital/get-playlist/hls-vod/files/08/18/1681808/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",14 серія Розтин покаже  1 сезон
+https://e12p.starlight.digital/get-playlist/hls-vod/files/56/44/1684456/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",15 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/12/61/1686112/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",16 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/16/78/1687816/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",17 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/28/97/1689728/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",18 серія Розтин покаже  1 сезон
+https://e13p.starlight.digital/get-playlist/hls-vod/files/16/36/1693616/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",19 серія Розтин покаже  1 сезон
+https://e13p.starlight.digital/get-playlist/hls-vod/files/72/51/1695172/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",21 серія Розтин покаже  1 сезон
+https://e13p.starlight.digital/get-playlist/hls-vod/files/72/86/1698672/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",22 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/92/19/1701992/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",23 серія Розтин покаже  1 сезон
+https://e13p.starlight.digital/get-playlist/hls-vod/files/84/37/1703784/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",24 серія Розтин покаже  1 сезон
+https://e13p.starlight.digital/get-playlist/hls-vod/files/24/78/1707824/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",25 серія Розтин покаже  1 сезон
+https://e12p.starlight.digital/get-playlist/hls-vod/files/24/10/1711024/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",27 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/60/55/1715560/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",28 серія Розтин покаже  1 сезон
+https://e13p.starlight.digital/get-playlist/hls-vod/files/64/76/1717664/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",29 серія Розтин покаже  1 сезон
+https://e12p.starlight.digital/get-playlist/hls-vod/files/68/15/1721568/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",3 серія Розтин покаже  1 сезон
+https://e12p.starlight.digital/get-playlist/hls-vod/files/12/53/1665312/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",30 серія Розтин покаже  1 сезон
+https://e13p.starlight.digital/get-playlist/hls-vod/files/56/34/1723456/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",31 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/08/55/1725508/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",32 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/24/76/1727624/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",4 серія Розтин покаже  1 сезон
+https://e12p.starlight.digital/get-playlist/hls-vod/files/76/53/1665376/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",5 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/84/86/1668684/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",6 серія Розтин покаже  1 сезон
+https://e14p.starlight.digital/get-playlist/hls-vod/files/56/16/1671656/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",7 серія Розтин покаже  1 сезон
+https://e12p.starlight.digital/get-playlist/hls-vod/files/68/28/1672868/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",8 серія Розтин покаже  1 сезон
+https://e11p.starlight.digital/get-playlist/hls-vod/files/92/40/1674092/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",9 серія Розтин покаже  1 сезон
+https://e13p.starlight.digital/get-playlist/hls-vod/files/56/52/1675256/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 1
+https://e13p.starlight.digital/get-playlist/hls-vod/files/91/88/1488891/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 11
+https://e13p.starlight.digital/get-playlist/hls-vod/files/96/32/2263296/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 12
+https://e13p.starlight.digital/get-playlist/hls-vod/files/68/56/1535668/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 13
+https://e13p.starlight.digital/get-playlist/hls-vod/files/48/29/1542948/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 14
+https://e13p.starlight.digital/get-playlist/hls-vod/files/12/30/1543012/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 15
+https://e13p.starlight.digital/get-playlist/hls-vod/files/28/67/1546728/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 16
+https://e13p.starlight.digital/get-playlist/hls-vod/files/72/67/1546772/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 2
+https://e13p.starlight.digital/get-playlist/hls-vod/files/31/88/1488831/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 3
+https://e13p.starlight.digital/get-playlist/hls-vod/files/87/85/1488587/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 4
+https://e13p.starlight.digital/get-playlist/hls-vod/files/11/88/1488811/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 5
+https://e13p.starlight.digital/get-playlist/hls-vod/files/67/85/1488567/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 6
+https://e13p.starlight.digital/get-playlist/hls-vod/files/47/85/1488547/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 7
+https://e13p.starlight.digital/get-playlist/hls-vod/files/07/86/1488607/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 8
+https://e13p.starlight.digital/get-playlist/hls-vod/files/51/88/1488851/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Будиночок на щастя Сезон 1 Серія 9
+https://e13p.starlight.digital/get-playlist/hls-vod/files/27/85/1488527/lq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  1 серія
+https://e12p.starlight.digital/get-playlist/hls-vod/files/96/64/2426496/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  10 серія
+https://e11p.starlight.digital/get-playlist/hls-vod/files/19/69/2426919/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  11 серія
+https://e12p.starlight.digital/get-playlist/hls-vod/files/88/72/2427288/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  12 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/94/72/2427294/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  13 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/26/74/2427426/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  14 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/38/74/2427438/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  15 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/37/75/2427537/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  16 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/31/75/2427531/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  17 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/18/76/2427618/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  18 серія
+https://e12p.starlight.digital/get-playlist/hls-vod/files/27/76/2427627/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  19 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/97/78/2427897/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  2 серія
+https://e11p.starlight.digital/get-playlist/hls-vod/files/08/65/2426508/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  20 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/91/78/2427891/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  21 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/63/79/2427963/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  22 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/72/79/2427972/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  23 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/65/80/2428065/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  24 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/71/80/2428071/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  25 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/70/81/2428170/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  26 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/76/81/2428176/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  27 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/60/85/2428560/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  28 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/66/85/2428566/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  29 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/23/86/2428623/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  3 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/02/65/2426502/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  30 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/17/86/2428617/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  31 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/92/86/2428692/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  32 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/01/87/2428701/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  33 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/27/88/2428827/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  34 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/36/88/2428836/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  35 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/04/93/2429304/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  36 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/98/92/2429298/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  37 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/00/94/2429400/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  38 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/94/93/2429394/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  39 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/84/94/2429484/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  4 серія
+https://e11p.starlight.digital/get-playlist/hls-vod/files/90/64/2426490/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  40 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/78/94/2429478/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  41 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/80/95/2429580/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  42 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/04/96/2429604/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  43 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/16/96/2429616/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  44 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/37/96/2429637/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  5 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/55/66/2426655/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  6 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/49/66/2426649/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  7 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/75/67/2426775/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  8 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/66/67/2426766/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Водна поліція  9 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/25/69/2426925/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 10 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/67/27/2422767/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 11 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/82/27/2422782/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 13 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/53/32/2423253/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 14 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/59/32/2423259/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 15 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/65/32/2423265/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 16 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/52/33/2423352/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 17 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/58/33/2423358/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 18 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/64/33/2423364/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 19 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/63/55/2425563/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 2 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/72/25/2422572/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 20 серія
+https://e14p.starlight.digital/get-playlist/hls-vod/files/57/55/2425557/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 21 серія
+https://e14p.starlight.digital/get-playlist/hls-vod/files/81/55/2425581/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 22 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/87/55/2425587/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 23 серія
+https://e14p.starlight.digital/get-playlist/hls-vod/files/75/55/2425575/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 24 серія
+https://e14p.starlight.digital/get-playlist/hls-vod/files/69/55/2425569/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 3 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/60/25/2422560/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 4 серія
+https://e14p.starlight.digital/get-playlist/hls-vod/files/54/25/2422554/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 6 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/05/26/2422605/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 7 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/41/26/2422641/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 8 серія
+https://e11p.starlight.digital/get-playlist/hls-vod/files/35/26/2422635/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Дільничний з ДВРЗ – 3 сезон – 9 серія
+https://e12p.starlight.digital/get-playlist/hls-vod/files/76/27/2422776/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 1 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/37/06/2270637/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 10 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/59/42/2204259/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 11 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/13/43/2204313/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 12 серія
+https://e14p.starlight.digital/get-playlist/hls-vod/files/04/43/2204304/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 13 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/80/87/2208780/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 14 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/89/87/2208789/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 15 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/01/88/2208801/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 16 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/25/88/2208825/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 2 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/80/99/2269980/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 3 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/53/99/2269953/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 4 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/64/98/2199864/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 5 серія
+https://e11p.starlight.digital/get-playlist/hls-vod/files/52/98/2199852/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 6 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/58/98/2199858/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 7 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/14/42/2204214/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 8 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/20/42/2204220/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Коп з минулого 9 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/08/42/2204208/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="RUSVOD_1 MIX",Опасный квартал (2011)
+https://vs30.vcdn.biz/9def2005458abb5cbde160b33243c4cf_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/28774991/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1874869301-b2000000.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 1 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/87/00/2430087/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 10 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/63/09/2430963/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 11 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/44/10/2431044/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 12 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/53/10/2431053/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 13 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/74/16/2431674/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 14 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/80/16/2431680/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 15 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/11/19/2431911/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 16 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/17/19/2431917/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 17 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/30/24/2432430/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 18 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/24/24/2432424/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 19 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/56/25/2432556/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 2 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/93/00/2430093/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 20 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/62/25/2432562/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 21 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/36/27/2432736/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 22 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/30/27/2432730/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 23 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/50/28/2432850/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 24 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/56/28/2432856/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 3 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/98/01/2430198/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 4 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/89/01/2430189/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 5 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/76/02/2430276/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 6 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/70/02/2430270/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 7 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/02/04/2430402/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 8 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/96/03/2430396/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="UA Серіал",Я зрікаюсь 9 серія
+https://e13p.starlight.digital/get-playlist/hls-vod/files/57/09/2430957/mq.mp4/index.m3u8
+#EXTINF:-1 ,Мистецтво на війні (Док.фільм)
+https://e13p.starlight.digital/get-playlist/hls-vod/files/29/62/2426229/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="RUSVOD_2 Comedy",Берни (2011)
+https://vs12.vcdn.biz/98128fdd8c18f4147fe30ecd3582aca0_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/521591/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid403810841-b2000000.m3u8
+#EXTINF:-1 group-title="Разное",Возвращение бизона (документальный) (2017)
+http://vs12.vcdn.biz/5680cd880ccac9a4a2fb99c7c928ad43_mgg/vod/hls/b/5000/u_sid/0/o/128146651/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid87412603801013-b5000000.m3u8
+#EXTINF:-1 group-title="Разное",Выстрел в темноте (комедия детектив) (1964)
+http://vs12.vcdn.biz/80c7d9f6ae87aec3a37ab99f333b1afe_mgg/vod/hls/b/5000/u_sid/0/o/128278271/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid108923995301013-b5000000.m3u8
+#EXTINF:-1 group-title="RUSVOD_1 MIX",Д'Артаньян и три мушкетера 1 серия (1978)
+https://vs12.vcdn.biz/a588577ca19128ffe5e5957fc6b6cfbb_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/100281/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid574376254-b2000000.m3u8
+#EXTINF:-1 group-title="RUSVOD_2 Comedy",Любит / Не любит (2011)
+https://vs12.vcdn.biz/9cc7de463476cf38fbab731810f0e7ef_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35341341/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid177985268-b2000000.m3u8
+#EXTINF:-1 group-title="Разное",Новая жизнь (драма мелодрама) (2016)
+http://vs12.vcdn.biz/49c4b883d88cfaef44b400a38b5dd3ff_mgg/vod/hls/b/5000/u_sid/0/o/101352601/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid191760308401013-b5000000.m3u8
+#EXTINF:-1 group-title="RUSVOD_1 MIX",Предатель (2008)
+https://vs12.vcdn.biz/12f7416d8a77725278386a9c36cc8661_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/377021/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/6/type.amlst/chunklist-sid1643753882-b2000000.m3u8
+#EXTINF:-1 group-title="RUSVOD_2 Comedy",Римские свидания (2015)
+https://vs12.vcdn.biz/ef0dc2fdbd2b1e3643228f37dd2a688d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/38071881/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/8/type.amlst/chunklist-sid1567001346-b2000000.m3u8
+#EXTINF:-1 group-title="Разное",Сиротки бури (драма мелодрама) (1921)
+http://vs12.vcdn.biz/bf820f7eb1b4ec731c9e6cd06aa88804_mgg/vod/hls/b/2000/u_sid/0/o/38274831/u_uid/0/u_vod/3/u_device/kodi/u_devicekey/_kodi_j1/a/0/type.amlst/chunklist-sid147131274101013-b2000000.m3u8
+#EXTINF:-1 group-title="RUSVOD_1 MIX",Сияющие стволы (2017)
+https://vs12.vcdn.biz/4468176297a43a7567ad8959b1780009_mgg/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84814921/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid864847345-b2000000.m3u8
+#EXTINF:-1 group-title="RUSVOD_2 Comedy",Старая добрая оргия (2011)
+https://vs12.vcdn.biz/e5c70ac3030ef8600f5390dca0c417b6_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/94761/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/9/type.amlst/chunklist-sid61310461-b2000000.m3u8
+#EXTINF:-1 group-title="Микс",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Микс" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg",312
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES",NASHE LUBIMOE KINO
+https://s7.merlive.am/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="MOVIES;SERIES",BOLT
+http://95.142.88.250:80/Bolt/index.m3u8
+#EXTINF:-1 ,Cinema + (720p)
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+#EXTINF:-1 group-title="США",CINEMAX EAST HD
+http://fl3.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 group-title="CASPEL",HOLLYWOOD
+http://mfe01.cliptv.az/dash/Hollywood_SDkhg357.ism/playlist.mpd
+#EXTINF:-1 group-title="CATCAST TV 🐈 NOT 24",СИТИ ЭДЕМ - КИНОЭКШЕН
+https://autopilot.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1 group-title="CATCAST TV 🐈 NOT 24",СИТИ ЭДЕМ - КИНОМИСТИКА
+https://autopilot.catcast.tv/content/40783/index.m3u8

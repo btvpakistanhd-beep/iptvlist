@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="Russian Radios",best fm
+http://nashe1.hostingradio.ru/best-64.mp3
+#EXTINF:-1 group-title="Russian Radios",dance 101 2 fm
+https://dfm.hostingradio.ru/dfm96.aacp
+#EXTINF:-1 group-title="Russian Radios",dorognoe radio
+http://dorognoe.hostingradio.ru:8000/dorognoe
+#EXTINF:-1 group-title="Russian Radios",eldo radio 101 4 fm
+http://emgspb.hostingradio.ru/eldoradio64.mp3
+#EXTINF:-1 group-title="Russian Radios",radio borneo modem
+http://live.borneo.ru:8888/128
+#EXTINF:-1 group-title="Russian Radios",radio chanson
+http://chanson.hostingradio.ru:8041/chanson64.mp3
+#EXTINF:-1 group-title="Russian Radios",radio maximum moskow
+https://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1 group-title="Russian Radios",radio megapolis 103 6 fm
+http://online.radio-megapolis.ru:8000/megapolis
+#EXTINF:-1 group-title="Russian Radios",radio sibir 1
+http://stream.radiosibir.ru:8090/HQ
+#EXTINF:-1 group-title="Russian Radios",radio silver rain
+http://213.59.4.27:8000/silver128.mp3
+#EXTINF:-1 group-title="Russian Radios",russkoe radio moscow
+https://rusradio.hostingradio.ru/rusradio96.aacp

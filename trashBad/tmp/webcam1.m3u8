@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 group-title="Германия 🇩🇪",Selb
+http://s1.worldcam.live:8081/selb/index.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",24
+https://5d881567b7568.streamlock.net/live/Dras.stream/chunklist.m3u8
+#EXTINF:-1 group-title="США 🇺🇸",Кормушка
+http://live.idnes.cz/slow/krmitkousa/playlist.m3u8
+#EXTINF:-1 group-title="Украина 🇺🇦",Львов - Церковь 1
+http://sukhovolya-tserkva.org.ua/live-video/church.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺",Назарово 1
+http://cam.sibmf.ru:8081/hls/123684/1157313fa8717cdda7cb/playlist.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺",Сочи 6
+https://fl.tvintel.info:8443/mix-kukuruza-plyaz/tracks-v1/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺",Сочи 7
+https://fl.tvintel.info:8443/mix-moskovskaya20-ulica/tracks-v1/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺",Сочи 24
+https://fl.tvintel.info:8443/mix-batumskoye14-ptz/tracks-v1/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺",Сочи 26
+https://fl.tvintel.info:8443/mix-avtomobilist-ptz/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Россия 🇷🇺",Сочи 28
+https://fl.tvintel.info:8443/mix-redisson-ptz/tracks-v1/index.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷",Brazil 2
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20003.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷",Brazil 4
+https://5a8d73edc0407.streamlock.net/bnuaovivo/bnuipaovivo.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷",Brazil 5
+https://5a8d73edc0407.streamlock.net/bnuip20/bnuip2021.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷",Brazil 6
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20009.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Бразилия 🇧🇷",Brazil 7
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20002.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Hensall
+https://maybach.railcam.co.uk/Hensall_12532/tracks-v1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Hythe
+http://maybach.railcam.co.uk/Hythe_22835/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Minehead Station
+http://maybach.railcam.co.uk:80/Minehead_05286/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Sagress Holidays
+http://camsecure.co/HLS/sagressholidays.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Williton Station
+http://maybach.railcam.co.uk:80/Williton1_17337/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Великобритания 🇬🇧",Williton Station 2
+http://maybach.railcam.co.uk/Williton2_84721/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Германия 🇩🇪",Германия 4
+http://tdt.shmhost.net/geist/livestream.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 3
+http://streaming-camaras.ebd.csic.es/cams/cam10.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 5
+http://streaming-camaras.ebd.csic.es/cams/cam12.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 7
+http://streaming-camaras.ebd.csic.es/cams/cam03.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 8
+http://streaming-camaras.ebd.csic.es/cams/cam05.m3u8
+#EXTINF:-1 group-title="Испания 🇪🇸",Испания 11
+http://streaming-camaras.ebd.csic.es/cams/cam08.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 4
+https://camera.ihlas.kg/stream/cam12/index.m3u8
+#EXTINF:-1 group-title="Киргизия 🇰🇬",Бишкек 8
+https://camera.ihlas.kg/stream/cam5/index.m3u8
+#EXTINF:-1 group-title="Нидерланды 🇳🇱",Морские котики
+https://6162417352ffd.streamlock.net/live/ecomare.stream/playlist.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱",4
+http://k-rz.pl/HLS/centrum.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱",Gdansk
+http://hoktastream4.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
+#EXTINF:-1 group-title="Польша 🇵🇱",Kolobrzeg
+http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Румыния 🇷🇴",4
+https://5e71c29dc7c8d.streamlock.net/wildliferomania2/live.stream_aac/chunklist.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия 1
+https://stream5.infokop.net:1443/live_cameras/camera_2/playlist.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия 2
+https://stream5.infokop.net:1443/live_cameras/camera_1/playlist.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия 3
+https://stream5.infokop.net:1443/live_cameras/camera_7/playlist.m3u8
+#EXTINF:-1 group-title="Сербия 🇷🇸",Сербия 7
+https://stream5.infokop.net:1443/live_cameras/husky/playlist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",3
+http://ibb-media2.ibb.gov.tr:1935/live/1029.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",4
+http://ibb-media2.ibb.gov.tr:1935/live/1030.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",5
+http://ibb-media2.ibb.gov.tr:1935/live/1033.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",6
+http://ibb-media2.ibb.gov.tr:1935/live/1031.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",7
+http://ibb-media2.ibb.gov.tr:1935/live/1032.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",8
+http://ibb-media2.ibb.gov.tr:1935/live/1034.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",14
+http://212.156.98.150:1936/Kamera/Meydan.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",28
+http://ibb-media4.ibb.gov.tr:1935/live/47.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",32
+http://ibb-media4.ibb.gov.tr:1935/live/57.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",34
+http://ibb-media4.ibb.gov.tr:1935/live/60.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",46
+http://ibb-media4.ibb.gov.tr:1935/live/88.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",97
+http://ibb-media2.ibb.gov.tr:1935/live/1026.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Турция 🇹🇷",98
+http://ibb-media2.ibb.gov.tr:1935/live/1027.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Украина 🇺🇦",Стрый 3
+https://stream-uspinnia.pp.ua/hls2/index.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿",Валашске-Мезиржичи 1
+http://212.111.1.7:1937/vlmcam01/vlmcam01.stream/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿",Валашске-Мезиржичи 2
+http://212.111.1.7:1937/vlmcam02/vlmcam02.stream/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿",Валашске-Мезиржичи 3
+http://212.111.1.7:1937/vlmcam03/vlmcam03.stream/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿",Валашске-Мезиржичи 4
+http://212.111.1.7:1937/vlmcam04/vlmcam04.stream/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿",Валашске-Мезиржичи 5
+http://212.111.1.7:1937/vlmcam05/vlmcam05.stream/playlist.m3u8
+#EXTINF:-1 group-title="Чешская Республика 🇨🇿",Ж/д вокзал Смихов
+http://live.idnes.cz/slow/vytopna/playlist.m3u8
+#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 3
+https://cdn-004.whatsupcams.com/hls/hr_senj03.m3u8
+#EXTINF:-1 group-title="Хорватия 🇭🇷",Хорватия 7
+https://cdn-004.whatsupcams.com/hls/hr_buildpetrinja03.m3u8
+#EXTINF:-1 group-title="Эстония 🇪🇪󠁧󠁢󠁳󠁣󠁴󠁿",Талин (4K)
+http://83.166.53.184:8080/index.m3u8

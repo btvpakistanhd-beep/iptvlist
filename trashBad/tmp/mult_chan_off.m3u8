@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 group-title="Мультсериалы",Nicktoons
+https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 group-title="UA",ПлюсПлюс
+http://149.5.17.34:20041/play/a06q
+#EXTINF:-1 group-title="UA",Пiксель HD
+http://149.5.17.34:20041/play/a05s
+#EXTINF:-1 ,ПЛЮС ПЛЮС
+http://185.235.187.11:8888/play/a00t/index.m3u8
+#EXTINF:-1 ,PIXEL TV
+http://185.235.187.11:8888/play/pixel/index.m3u8
+#EXTINF:-1 ,Все мульты
+https://tv.2222.one/ch1.m3u8
+#EXTINF:-1 ,Популярные мульты и сериалы вместе
+https://tv.2222.one/ch9.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://89.254.128.5:22280/cartoon_network/video.m3u8
+#EXTINF:-1 ,3ABN KIDS TV (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 ,Детский мир
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:-1 ,ТСВ
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+#EXTINF:-1 ,Плюс Плюс
+http://185.235.187.10:8888/play/a00t/index.m3u8
+#EXTINF:-1 ,Піксель HD
+http://185.235.187.10:8888/play/pixel/index.m3u8
+#EXTINF:-1 ,СТС Kids
+http://45.159.74.13/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Qulli GIRL
+http://185.235.187.10:8888/play/a006/index.m3u8
+#EXTINF:-1 ,Супер герои
+http://185.235.187.10:8888/play/a01u/index.m3u8
+#EXTINF:-1 ,C
+http://185.235.187.10:8888/play/kinosemya/index.m3u8
+#EXTINF:-1 ,ANI
+http://185.235.187.10:8888/play/a020/index.m3u8
+#EXTINF:-1 ,Мультиландия SD
+http://185.235.187.10:8888/play/a068/index.m3u8
+#EXTINF:-1 ,Lale UA
+http://185.235.187.10:8888/play/a06p/index.m3u8
+#EXTINF:-1 ,СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 ,МУЛЬТИМАНИЯ
+https://void.greenhosting.ru/Multimania_Mpeg4/video.m3u8
+#EXTINF:-1 ,МУЛЬТ
+http://live2.tvg.ge:8082/tv/mult_SD/playlist.m3u8
+#EXTINF:-1 ,Мульт
+http://lb.homeiptv.org/lb0/Mult/video.m3u8
+#EXTINF:-1 ,Мульт
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1 ,Cartoon network
+http://lb.homeiptv.org/lb0/cartoonnetwork/video.m3u8
+#EXTINF:-1 ,Cartoon Network East TVE Feed (Adaptive) (720p) [Geo-Blocked] [Not 24/7]
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CartoonNetworkEast.us.m3u8
+#EXTINF:-1 ,Cartoon Network FreeLive Brazil 2 (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+#EXTINF:-1 ,Cartoon Network FreeLive Brazil (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 ,Cartoon Network FreeLive Latam 2 (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 ,Cartoon Network FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 ,Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 ,Cartoonito FreeLive Brazil (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 ,Cartoonito FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1 ,Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 ,Hala London TV Cartoon (720p)
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8
+#EXTINF:-1 ,Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 ,NCM Educational & Kids Channel
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/nevco/G0644_005/playlist.m3u8
+#EXTINF:-1 ,Pluto TV Animakids (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,Pluto TV Kids (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 ,Pluto TV Kids Animation (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 ,Pluto TV Kids Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62444e195d2ab7000861694b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 ,Rotana Kids (1080p)
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 ,SEO TV 2 Kids (1080p)
+https://live.seo.tv.bo/live/SEO-2.m3u8
+#EXTINF:-1 ,СТС Kids
+http://lb.homeiptv.org/lb0/STS_Kids/video.m3u8
+#EXTINF:-1 ,СТС Kids
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,СТС Kids HD
+http://lb.homeiptv.org/lb0/CTC_Kids_HD/video.m3u8
+#EXTINF:-1 ,Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 ,Dios Te Ve Kids (720p)
+https://stream.oursnetworktv.com/latin/dD10sT3V3K1dS/playlist.m3u8
+#EXTINF:-1 ,Discovery Kids FreeLive Brazil (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+#EXTINF:-1 ,Discovery Kids FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+#EXTINF:-1 ,KBS Kids (480p)
+https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+#EXTINF:-1 ,KidsClick (720p) [Geo-blocked]
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
+#EXTINF:-1 ,LatinoKids (480p) [Not 24/7]
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 ,Mondo TV Kids
+https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,BabyFirst
+https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
+#EXTINF:-1 ,Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 ,Battery Pop (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 ,Bob l'éponge+ (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609a33d06972da0007748ecf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc9fd0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195dd54b-932b-4f28-be70-7e736585335a
+#EXTINF:-1 ,Brat TV (1080p)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Clan TVE (1080p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1 ,Eureka (1080p)
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8

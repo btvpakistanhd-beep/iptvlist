@@ -1,0 +1,1515 @@
+#EXTM3U
+#EXTINF:-1 ,OAN
+https://cdn.klowdtv.net/803B48A/oan_aws/OAN.m3u8
+#EXTINF:-1 ,OAN Plus
+https://67bf68ca230b4e82bd5ac42d46449483.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_OAN_Plus/fast/OAN_Encore/playlist.m3u8
+#EXTINF:-1 ,AWE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/awe_720p/chunks.m3u8
+#EXTINF:-1 ,Awe Plus
+https://b08f85ef072648ebbe197a5e5e436549.mediatailor.us-west-2.amazonaws.com/v1/master/d138761b0916ee5f222129c594a33677627df5e3/KlowdTV_AWE_Plus/fast/AWE_Encore/playlist.m3u8
+#EXTINF:-1 ,The First
+https://redseat-thefirst-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-redseat-thefirst-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1 ,NewsMax TV (GEO USA)
+https://newsmax-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Salem News (GEO USA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8
+#EXTINF:-1 ,France 24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
+#EXTINF:-1 ,France 24 Espanol
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
+#EXTINF:-1 ,Ticker News (GEO USA)
+https://tickernews-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-tickernews-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1 ,Euronews
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/euronews_720p/chunks.m3u8
+#EXTINF:-1 ,NewsNet
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-newsnet-klowdtv/playlist.m3u8
+#EXTINF:-1 ,WION (GEO USA)
+https://wion-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Fednet (GEO USA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01622-federalnetworki-fednet-klowdtv/playlist.m3u8
+#EXTINF:-1 ,FinTech TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02236-fintechtvpbc-fintech-klowdtv/playlist.m3u8
+#EXTINF:-1 ,Infowars
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/infowars_source/chunks.m3u8
+#EXTINF:-1 ,Jovem Pan News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8
+#EXTINF:-1 ,Gameshow Network
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 ,Legend Films
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5288
+#EXTINF:-1 ,Sony Movies Channel
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 ,Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 ,Fido TV
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/fido_720p/playlist.m3u8
+#EXTINF:-1 ,Action Hollywood (GEO USA)
+https://actionhollywood-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-actionhollywood-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1 ,Whacked out TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5290
+#EXTINF:-1 ,LoveNature (GEO USA)
+https://bamus-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-bam-us-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1 ,Wild Earth
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-klowdtv/playlist.m3u8
+#EXTINF:-1 ,911 Encore
+https://amg00283-anthymtv-911network-ono-p7py5.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Siteline (GEO USA)
+https://naviofrequency-sightline-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Fite 247
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fite247_720p/chunks.m3u8
+#EXTINF:-1 ,Unbeaten
+https://inverleigh-unbeaten-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Billiard TV
+https://tripleb-billiardtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-tripleb-billiardtv/CDN/playlist.m3u8
+#EXTINF:-1 ,Bein Sports Xtra  (GEO USA)
+https://beinxtra-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Bein Xtra ESP (GEO USA)
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,LSN (GEO USA)
+https://tripleb-lsn.amagi.tv/hls/amagi_hls_data_klowdtvAA-tripleb-lacrosse-sports-network/CDN/playlist.m3u8
+#EXTINF:-1 ,FTF For the Fans (GEO USA)
+https://tripleb-ftf.amagi.tv/hls/amagi_hls_data_klowdtvAA-tripleb-for-the-fans/CDN/playlist.m3u8
+#EXTINF:-1 ,Edge Sports (GEO USA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-edgesports-klowdtv/playlist.m3u8
+#EXTINF:-1 ,Campuslore (GEO USA)
+https://naviofequency-campusloresports.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Carbon TV (GEO USA)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01570-carbontv-carbontv-klowdtv/playlist.m3u8
+#EXTINF:-1 ,Wired 2 Fish (GEO USA)
+https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Pursuit (GEO USA)
+https://pursuitup-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Motorvision.TV
+https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?&version=12&id=1199&partner=klowdtv&device_model=&device_width=1920&device_height=1080&yob=&gender=&us_privacy=1---&gdpr=&gdpr_consent=&device_language=&is_lat=
+#EXTINF:-1 ,EESL
+https://d1cc0p6j4uj4n9.cloudfront.net/ae41d4a8-9c92-4085-9f6d-b399a4073425/hls/e50df211-f64e-4da0-acee-419c8919d9ee.m3u8
+#EXTINF:-1 ,Circle TV (GEO USA)
+https://circle-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,The Country Network
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/countrytv_720p/chunks.m3u8
+#EXTINF:-1 ,Popstar (GEO USA)
+https://popstar-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,GO Traveller
+https://api-ott.gotraveler.com/loggingmediaurlpassthrough/a.m3u8?&version=12&id=677&partner=klowdtv&device_model=&device_width=1920&device_height=1080&yob=&gender=&us_privacy=1---&gdpr=&gdpr_consent=&device_language=&is_lat=
+#EXTINF:-1 ,Level Up
+https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-KlowdTV/195.m3u8
+#EXTINF:-1 ,ESTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00303-televisionkorea-estv-klowdtv/playlist.m3u8
+#EXTINF:-1 ,Dark Matter (GEO USA)
+https://darkmatter-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Dark Corners
+https://d37s0md1fx4qof.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DarkCorners-KlowdTV/189.m3u8
+#EXTINF:-1 ,Quietude 4k (GEO USA)
+https://naviofrequency-quietude4k-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Beond TV (GEO)
+https://amg01681-beondtv-amg01681c1-klowdtv-us-648.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-klowdtvus/playlist.m3u8?
+#EXTINF:-1 ,Second Opinion Panel
+https://d1cc0p6j4uj4n9.cloudfront.net/48b50d2d-c384-483d-a76c-8fbb9cf00138/hls/08120160-dacf-4164-8478-b74ac25f0026.m3u8
+#EXTINF:-1 ,Gusto TV (GEO USA)
+https://gusto-klowd.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Court TV
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/courttv_720p/chunks.m3u8
+#EXTINF:-1 ,Fuse Backstage (GEO USA)
+https://fusexl-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Soreal (GEO USA)
+https://cinedigm-soreal-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Demand Africa
+https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,QVC
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/qvclive_720p/playlist.m3u8
+#EXTINF:-1 ,QVC 2
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/qvcplus_720p/chunks.m3u8
+#EXTINF:-1 ,HSN
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/hsn_720p/playlist.m3u8
+#EXTINF:-1 ,ShopLC (GEO USA)
+https://shoplc-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Pop TV
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/pop_720p/playlist.m3u8
+#EXTINF:-1 ,Feva (GEO USA)
+https://feva-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,FantaWild (GEO USA)
+https://cinedigm-fantawild-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Horror Machine (GEO USA)
+https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,MOB TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-klowdtv/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.1:1234
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s78/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s51/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s49/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s90/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s95/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s72/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s70/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s67/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s47/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://ott-cdn.ucom.am/s57/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s100/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s97/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s99/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s96/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s66/01.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s43/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s88/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Спорт
+http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Спорт
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s79/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Спорт
+http://ott-cdn.ucom.am/s62/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Спорт
+http://ott-cdn.ucom.am/s55/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s54/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s53/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s50/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://streams.tv.mts.by/zarubezhnaya_classica/1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://streams.tv.mts.by/soviet_classic/1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://streams.tv.mts.by/indiyskaya_classica/1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://streams.tv.mts.by/hollywood_classic/1/index.m3u8
+#EXTINF:-1 group-title="Кино",Киноменю HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+https://webhalpme.ru/intro.mp4
+#EXTINF:-1 ,#EXTGRP:Кино
+http://live.tdktv.cdnvideo.ru/tdktv/tdktv.sdp/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+https://hls-viasat.cdnvideo.ru/hls/relay/L_UDg0e/index.m3u8?md5=aQJr8zCU2qyjrTrqnmqEQQ&e=1541405785&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1 ,#EXTGRP:Кино
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288412514/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.248.236.41:4433/udp/238.1.1.111:1234
+#EXTINF:-1 ,#EXTGRP:HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://now2.eaglecdn.com/stream_transcoded_1080/bigasia_test_mid2/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdn-10.bonus-tv.ru:80/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.18:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.15:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.14:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.7:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.10:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s100/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.8:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://v1.proofix.ru/live-tv8-2/europe/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://8knsk.cdnvideo.ru/8knsk-mpegts/stream1/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.19:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.17:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s20/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s63/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s44/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://serv30.vintera.tv:8081/nano/nanohd/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s67/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s70/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s72/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s84/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://176.101.224.21:8080/udp/239.195.32.32:1234
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s91/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s97/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://77.220.204.63:1935/live/htv.stream/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://82.193.71.93/MamontLV/video.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://ott-cdn.ucom.am/s58/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://176.101.224.21:8080/udp/239.195.32.20:1234
+#EXTINF:-1 ,#EXTGRP:Детские
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://82.193.71.93/MultimaniaLV/video.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://rostovpapa.vintera.tv:8081/rostovpapa/rostovpapa_stream1/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://rusevertv.ru/576/rs_crf28_.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://media2.strekalovskiy.com/rusextrimretro/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://live.trk-luch.ru/hls/live_mid.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://live-rmg.cdnvideo.ru/rmg/rutv_hd.sdp/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v3a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v2a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://78.gcdn.co/streams/877_13/480n/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://78.gcdn.co/streams/877_13/720n/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://78.gcdn.co/streams/877_13/1080n/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://hls-edge.cdn.buy-home.tv/bhtvlive/_definst_/live/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cars-and-stars-tv-hls1.cosmonova.net.ua/hls/cars-and-stars-tv_ua_hi/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://72.211.19.145:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://82.193.71.93/Kino24LV/video.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://tvshops.bonus-tv.ru:80/cdn/leomax/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://vs36.vcdn.biz/5ba67a16ea0b90b028dd8b7408bc9a30_megogo/live/hls/u_sid/0/o/71731461/u_uid/0/u_vod/1/u_device/cms_html5/type.live/chunklist-b4000000.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://wow.stib.com.ua:1935/tv/ch1/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s84/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://91.192.168.242:9091
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://82.193.71.93/Pro100TvRuSattelite/video.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v3a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v2a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:8080/rtdoc/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s80/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://tv.105.net:1935/live/105Test3/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://tv.105.net:1935/live/rmc3/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://live2.mediacdn.ru/sr1/tvbrics/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://highvolume03.streampartner.nl:1935/vleugels_hd2/livestream/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://live-bumtv.cdnvideo.ru/bumtv-live/smil:bumtv.smil/chunklist_b4192000.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://serv25.vintera.tv:8081/test/vmesterf/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://hls-sneg-pull2.cdnvideo.ru/sneg-pull2/KTS/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://live2.mediacdn.ru/sr1/grozny/chunklist_b1498000.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s76/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Кино
+http://109.70.184.20:8080/udp/239.195.32.10:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://donmedia.bonus-tv.ru/cdn/donmedia/tracks-v3a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://donmedia.bonus-tv.ru/cdn/donmedia/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://donmedia.bonus-tv.ru/cdn/donmedia/tracks-v2a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://evpatoriatv.cdnvideo.ru/li/pl.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v2a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://109.70.184.20:8080/udp/239.195.32.17:1234
+#EXTINF:-1 ,#EXTGRP:Детские
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://ott-cdn.ucom.am/s60/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://109.70.184.20:8080/udp/239.195.32.20:1234
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru:8080/konnyimir_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://vid.techbee.pro:8080/1tvcrimea/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://ott-cdn.ucom.am/s77/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.13:1234
+#EXTINF:-1 ,#EXTGRP:Кино
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://109.70.184.20:8080/udp/239.195.32.54:1234
+#EXTINF:-1 ,#EXTGRP:Детские
+http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s87/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.7:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://95.46.208.8:26259/nashe
+#EXTINF:-1 ,#EXTGRP:Общие
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://stream.ont.by:1935/ont/live576p/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.8:1234
+#EXTINF:-1 ,#EXTGRP:HD
+http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://now03.eaglecdn.com/stream_transcoded_720/irystontv_irystontvstream1_hi/index.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://hls.opentv.online/7200k/open_7200k.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://live-meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.1:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://87.252.229.252:8083/pinsk
+#EXTINF:-1 ,#EXTGRP:Кино
+http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdn-01.bonus-tv.ru:8080/prodvizhenie/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.32:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.14:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s36/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Детские
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://live-raztv.cdnvideo.ru/raztv/raztv.sdp/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.18:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.2:1234
+#EXTINF:-1 ,#EXTGRP:HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.4:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s16/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:russiak.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://stream2.topspb.tv:1935/live/smil:live.smil/chunklist_b1596000.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://serv24.vintera.tv:8081/svoetv/stvsd/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Познавательные
+http://live-spastv.cdnvideo.ru/spastv-publish/spastv.sdp/playlist.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.15:1234
+#EXTINF:-1 ,#EXTGRP:Общие
+http://sc.id-tv.kz/TDK-42_36_37.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,#EXTGRP:Общие
+http://109.70.184.20:8080/udp/239.195.32.11:1234
+#EXTINF:-1 ,#EXTGRP:Музыка
+http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Eurosport
+https://ip5.pokaz.me:1443/594/index.m3u8?wmsAuthSign=1695567531p34i081i69i64S6617d68185a0786228b9aa6e2f5b87d3
+#EXTINF:-1 ,#EXTGRP:Eurosport2
+https://ip3.pokaz.me:1443/595/index.m3u8?wmsAuthSign=1695572703p34i081i69i64S7e902a1b364280efa28a5d290ad03df4
+#EXTINF:-1 ,#EXTGRP:KHL Prime
+https://ip1.pokaz.me:1443/149/index.m3u8?wmsAuthSign=1695572171p34i081i69i64S57dcf396feddd7a86f236dc660516217
+#EXTINF:-1 ,#EXTGRP:Viasat Sport
+https://ip2.pokaz.me:1443/152/index.m3u8?wmsAuthSign=1695572242p34i081i69i64S831853b9500c00e0b9e946c273fbc230
+#EXTINF:-1 ,#EXTGRP:TV1000 Action
+https://ip5.pokaz.me:1443/138/index.m3u8?wmsAuthSign=1695572302p34i081i69i64S9e5f258361855e2681ab78a4866a7764
+#EXTINF:-1 ,#EXTGRP:Кинохит
+https://ip5.pokaz.me:1443/200/index.m3u8?wmsAuthSign=1695572442p34i081i69i64S1b80514ad8c36f05401e63304ce6a5eb
+#EXTINF:-1 ,#EXTGRP:Discovery
+https://ip5.pokaz.me:1443/520/index.m3u8?wmsAuthSign=1695572567p34i081i69i64Sb40bb36b1664d96f6bcc265c269d69f8
+#EXTINF:-1 ,#EXTGRP:Discovery Science
+https://ip4.pokaz.me:1443/571/index.m3u8?wmsAuthSign=1695572624p34i081i69i64S091b25cebf3c3a88c3a9a3d7e9d0ef52
+#EXTINF:-1 ,The Redbox.m3u playlist is closed
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=Redbox
+#EXTINF:-1 ,ALLBLK Gems
+https://amc-allblk-gems-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Buzzfeed Unsolved
+https://amg01545-amg01545c3-tablo-us-3140.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Buzzfeed Food
+https://amg01545-amg01545c2-tablo-us-6131.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Comedy Dynamics fix
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-tablo/playlist.m3u8
+#EXTINF:-1 ,The Carol Burnett Show
+https://amg00163-amg00163c1-tablo-us-9187.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Johnny Carson TV
+https://amg00163-amg00163c2-tablo-us-9188.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Mystery Science Theatre
+https://amg00163-amg00163c4-tablo-us-9165.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Docurama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docurama-tablo/playlist.m3u8
+#EXTINF:-1 ,Great American Adventures
+https://amg01884-gac-amg01884c2-tablo-us-7399.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Dove Channel fix
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-dove-tablo/playlist.m3u8
+#EXTINF:-1 ,The Film Detective fix
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-tablo/playlist.m3u8
+#EXTINF:-1 ,Retro Crush fix
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-tablo/playlist.m3u8
+#EXTINF:-1 ,So.. Real fix
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-tablo/playlist.m3u8
+#EXTINF:-1 ,At The Movies
+https://amg00136-wbd-amg00136c3-tablo-us-7099.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Ghosts Are Real
+https://amg00136-wbd-amg00136c13-tablo-us-7096.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Mysterious Worlds
+https://amg00136-wbd-amg00136c14-tablo-us-7094.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,How To
+https://amg00136-wbd-amg00136c16-tablo-us-7100.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Chasing Criminals
+https://amg00136-wbd-amg00136c17-tablo-us-7204.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Classic Cinema
+https://amg00136-wbd-amg00136c18-tablo-us-7203.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,The FBI
+https://amg00136-wbd-amg00136c19-tablo-us-7187.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Science Is Amazing
+https://amg00136-wbd-amg00136c20-tablo-us-7190.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Love Kills
+https://amg00136-wbd-amg00136c21-tablo-us-7196.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Generation Drama
+https://amg00136-wbd-amg00136c22-tablo-us-7201.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,On The Telly
+https://amg00136-wbd-amg00136c23-tablo-us-7193.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,In The Garage
+https://amg00136-wbd-amg00136c24-tablo-us-7198.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Living With Evil
+https://amg00136-wbd-amg00136c25-tablo-us-7197.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Say Yes With The Dress
+https://amg00136-wbd-amg00136c26-tablo-us-7191.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Travel and Adventure
+https://amg00136-wbd-amg00136c27-tablo-us-7192.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Bachelor Nation
+https://amg00136-wbd-amg00136c28-tablo-us-7107.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Nikita
+https://amg00136-wbd-amg00136c29-tablo-us-7194.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Medical Incredible
+https://amg00136-wbd-amg00136c33-tablo-us-7195.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,HBO Boxing
+https://amg00136-wbd-amg00136c41-tablo-us-7200.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Bizzare Foods
+https://amg00136-wbd-amg00136c42-tablo-us-7205.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,B R Sports
+https://amg00136-wbd-amg00136c43-tablo-us-7179.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Primetime Soaps
+https://amg00136-wbd-amg00136c49-tablo-us-7178.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Bodas Plus
+https://amg00136-wbd-amg00136c51-tablo-us-7174.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Aventura
+https://amg00136-wbd-amg00136c53-tablo-us-7175.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Motor Trend Fast TV
+https://amg00136-wbd-amg00136c57-tablo-us-7176.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Discovery
+https://amg00136-wbd-amg00136c59-tablo-us-7102.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Crimen
+https://amg00136-wbd-amg00136c60-tablo-us-7103.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,The Ellen Channel
+https://amg00136-wbd-amg00136c61-tablo-us-7177.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unique Lives
+https://amg00136-wbd-amg00136c62-tablo-us-7104.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Paws and Claws
+https://amg00136-wbd-amg00136c63-tablo-us-7106.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Sweet Escapes
+https://amg00136-wbd-amg00136c64-tablo-us-7105.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Love and Marriage
+https://amg00136-wbd-amg00136c65-tablo-us-7095.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Family Unscripted
+https://amg00136-wbd-amg00136c66-tablo-us-7097.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Welcome Home
+https://amg00136-wbd-amg00136c67-tablo-us-7108.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Survive or Die
+https://amg00136-wbd-amg00136c70-tablo-us-7188.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Ultimate Builds
+https://amg00136-wbd-amg00136c71-tablo-us-7184.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Home Crashers
+https://amg00136-wbd-amg00136c72-tablo-us-7199.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,History Untold
+https://amg00136-wbd-amg00136c73-tablo-us-7202.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Funny Favorites
+https://amg00136-wbd-amg00136c74-tablo-us-7210.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Cartoon Rewind
+https://amg00136-wbd-amg00136c75-tablo-us-7211.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Team USA
+https://amg01416-amg01416c4-tablo-us-4553.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Pure Flix
+https://amg01884-gac-amg01884c1-tablo-us-7441.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AccuWeather Now
+https://amg00684-amg00684c1-tablo-us-9826.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Newsmax 2
+https://amg00217-newsmax-amg00217c3-tablo-us-7611.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CNN Headlines
+https://amg01918-cnnus-amg01918c1-tablo-us-7236.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CNN Originals
+https://amg01918-cnnus-amg01918c2-tablo-us-7234.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CNN Xpress
+https://amg01918-cnnus-amg01918c4-tablo-us-7235.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Latin Nation
+https://amg00779-latv-amg00779c1-tablo-us-6459.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latination-tablous/playlist.m3u8
+#EXTINF:-1 ,Estrella Games
+https://amg00567-amg00567c1-tablo-us-2816.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-estrellagames-tablous/playlist.m3u8
+#EXTINF:-1 ,Space Science Now
+https://amg00376-amg00376c13-tablo-us-6002.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowmainus-tablous/playlist.m3u8
+#EXTINF:-1 ,History and Warfare Now
+https://amg00376-amg00376c16-tablo-us-6003.playouts.now.amagi.tv/playlist/amg00376-magellantv-historyandwarfarenowmainus-tablous/playlist.m3u8
+#EXTINF:-1 ,Gusto TV Espanol (Geo)
+https://amg01077-gustofast-amg01077c8-tablo-us-2221.playouts.now.amagi.tv/playlist/amg01077-gusto-gustoesp-tablous/playlist.m3u8
+#EXTINF:-1 ,Dog Whisperer Ceaser Milan
+https://amg01201-amg01201c30-tablo-us-9867.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Joel Osteen Network
+https://amg02298-nuvyoo-amg02298c3-tablo-us-8327.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,World Surf League
+https://amg02298-nuvyoo-amg02298c4-tablo-us-8942.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Wired2Fish
+https://amg02298-nuvyoo-amg02298c5-tablo-us-8943.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Military Times
+https://amg02298-nuvyoo-amg02298c6-tablo-us-8944.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,SI TV
+https://amg02298-nuvyoo-amg02298c7-tablo-us-8945.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Horror Machine
+https://amg02298-nuvyoo-amg02298c8-tablo-us-8946.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Wild West TV
+https://amg02298-nuvyoo-amg02298c9-tablo-us-9920.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Stories by AMC
+https://amc-amcpresents-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,All Weddings WE Tv
+https://amc-allweddings-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,All Reality WE tv
+https://amc-absolutereality-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,AMC En Espanol
+https://amc-amcespanol-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Slightly Off IFC
+https://amc-slightly-off-by-amc-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,AMC Thrillers
+https://amc-rushbyamc-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,The Walking Dead Universe
+https://amc-twdfanexperience-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,IFC Film Picks
+https://amc-ifc-films-picks-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Portlandia
+https://amc-portlandia-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ANIME x HIDIVE
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Bein Sports Xtra
+https://amg01334-amg01334c2-tablo-us-7356.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,MSG Sportszone
+https://37ed58e7.wurl.com/v1/amc_msgsportszone_1/tablo_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 ,Sports News Highlights
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-sportsnewshighlights-tablo/playlist.m3u8
+#EXTINF:-1 ,Womensports Network
+https://amg01416-amg01416c2-tablo-us-3842.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Surfer (Geo)
+https://amg13231-actve-amg13231c1-tablo-us-1225.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-tablous/playlist.m3u8
+#EXTINF:-1 ,Skate Boarding (Geo)
+https://amg13231-actve-amg13231c1-tablo-us-1225.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-tablous/playlist.m3u8
+#EXTINF:-1 ,Snow Boarder (Geo)
+https://amg13231-actve-amg13231c1-tablo-us-1225.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-tablous/playlist.m3u8
+#EXTINF:-1 ,Powder (Geo)
+https://amg13231-actve-amg13231c1-tablo-us-1225.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-tablous/playlist.m3u8
+#EXTINF:-1 ,Bike (Geo)
+https://amg13231-actve-amg13231c1-tablo-us-1225.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-tablous/playlist.m3u8
+#EXTINF:-1 ,Mytime Movie Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimemovienetwork-tablo/playlist.m3u8
+#EXTINF:-1 ,Fawesome (Geo)
+https://amg00108-amg00108c3-tablo-us-3082.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Freemovies Plus (Geo)
+https://amg02042-ottstudio-amg02042c15-tablo-us-950.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviespluslite-tablous/playlist.m3u8
+#EXTINF:-1 ,QVC The Big Dish
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01717-qvcinc-thebigdish-tablo/playlist.m3u8
+#EXTINF:-1 ,The Country Network (Geo)
+https://amg00600-tcn-amg00600c1-tablo-us-1764.playouts.now.amagi.tv/playlist/amg00600-thecountrynetworkfast-thecountrynetwork-tablous/playlist.m3u8
+#EXTINF:-1 ,The Washington Post
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02298-nuvyyoinc-washingtonpost-tablo/playlist.m3u8
+#EXTINF:-1 ,1 HD
+udp://@224.200.202.242:1234
+#EXTINF:-1 ,Россия 1 HD
+udp://@224.200.202.226:1234
+#EXTINF:-1 ,НТВ HD
+udp://@224.200.202.253:1234
+#EXTINF:-1 ,5
+udp://@234.5.2.5:1234
+#EXTINF:-1 ,Россия К
+udp://@224.200.202.155:1234
+#EXTINF:-1 ,Россия 24
+udp://@234.5.2.7:1234
+#EXTINF:-1 ,ОТР
+udp://@234.5.2.9:1234
+#EXTINF:-1 ,ТВ Центр
+udp://@224.200.202.159:1234
+#EXTINF:-1 ,Рен ТВ
+udp://@234.5.2.11:1234
+#EXTINF:-1 ,СТС HD
+udp://@224.200.202.216:1234
+#EXTINF:-1 ,Домашний HD
+udp://@224.200.202.217:1234
+#EXTINF:-1 ,ТВ 3
+udp://@234.5.2.15:1234
+#EXTINF:-1 ,Пятница
+udp://@224.200.202.165:1234
+#EXTINF:-1 ,Звезда
+udp://@234.5.2.17:1234
+#EXTINF:-1 ,Мир HD
+udp://@224.200.202.43:1234
+#EXTINF:-1 ,ТНТ
+udp://@234.5.2.19:1234
+#EXTINF:-1 ,МузТВ
+udp://@234.5.2.20:1234
+#EXTINF:-1 ,1HD Музыка
+udp://@224.200.202.101:1234
+#EXTINF:-1 ,2x2
+udp://@224.200.202.171:1234
+#EXTINF:-1 ,360 Новости
+udp://@224.200.204.20:1234
+#EXTINF:-1 ,360 HD
+udp://@224.200.204.18:1234
+#EXTINF:-1 ,365 дней ТВ
+udp://@224.200.231.2:1234
+#EXTINF:-1 ,78 HD
+udp://@224.200.202.220:1234
+#EXTINF:-1 ,Авто Плюс
+udp://@224.200.231.3:1234
+#EXTINF:-1 ,Амедиа
+udp://@224.200.202.41:1234
+#EXTINF:-1 ,Беларусь 24
+udp://@224.200.204.12:1234
+#EXTINF:-1 ,БелРос
+udp://@224.200.204.9:1234
+#EXTINF:-1 ,Бобер
+udp://@224.200.202.238:1234
+#EXTINF:-1 ,Вместе РФ
+udp://@224.200.204.16:1234
+#EXTINF:-1 ,Детский
+udp://@224.200.202.18:1234
+#EXTINF:-1 ,Дом Кино
+udp://@224.200.202.239:1234
+#EXTINF:-1 ,Дом Кино Премиум HD
+udp://@224.200.202.241:1234
+#EXTINF:-1 ,Европа Плюс ТВ
+udp://@224.200.231.4:1234
+#EXTINF:-1 ,Еда Премиум HD
+udp://@224.200.205.17:1234
+#EXTINF:-1 ,Жара ТВ
+udp://@224.200.202.95:1234
+#EXTINF:-1 ,Загородная жизнь
+udp://@224.200.202.118:1234
+#EXTINF:-1 ,Иллюзион+
+udp://@224.200.202.123:1234
+#EXTINF:-1 ,Индийское кино
+udp://@224.200.231.130:1234
+#EXTINF:-1 ,Карусель
+udp://@224.200.202.69:1234
+#EXTINF:-1 ,Кино ТВ HD
+udp://@224.200.202.17:1234
+#EXTINF:-1 ,Кинокомедия
+udp://@224.200.231.131:1234
+#EXTINF:-1 ,Киномикс
+udp://@224.200.233.132:1234
+#EXTINF:-1 ,Кинопремьера HD
+udp://@224.200.233.7:1234
+#EXTINF:-1 ,Киносвидание
+udp://@224.200.233.134:1234
+#EXTINF:-1 ,Киносемья
+udp://@224.200.233.136:1234
+#EXTINF:-1 ,Киноужас
+udp://@224.200.231.9:1234
+#EXTINF:-1 ,Кинохит
+udp://@224.200.233.137:1234
+#EXTINF:-1 ,Красная линия
+udp://@224.200.202.83:1234
+#EXTINF:-1 ,Кухня ТВ
+udp://@224.200.231.1:1234
+#EXTINF:-1 ,ЛДПР ТВ
+udp://@224.200.202.38:1234
+#EXTINF:-1 ,ЛенТВ24 HD
+udp://@224.200.202.195:1234
+#EXTINF:-1 ,ЛРТ HD
+udp://@237.1.40.1:1234
+#EXTINF:-1 ,Мама
+udp://@224.200.202.15:1234
+#EXTINF:-1 ,Мир 24 HD
+udp://@224.200.202.75:1234
+#EXTINF:-1 ,Мир Premium HD
+udp://@224.200.202.42:1234
+#EXTINF:-1 ,Многосерйное ТВ
+udp://@224.200.231.6:1234
+#EXTINF:-1 ,Москва 24
+udp://@224.200.202.89:1234
+#EXTINF:-1 ,Москва Доверие
+udp://@224.200.202.90:1234
+#EXTINF:-1 ,Моя планета
+udp://@224.200.240.1:1234
+#EXTINF:-1 ,Мужской
+udp://@224.200.202.117:1234
+#EXTINF:-1 ,Музыка первого
+udp://@224.200.202.240:1234
+#EXTINF:-1 ,Мульт
+udp://@224.200.240.8:1234
+#EXTINF:-1 ,Мультимания
+udp://@224.200.202.119:1234
+#EXTINF:-1 ,Наука 2.0 SD
+udp://@224.200.240.2:1234
+#EXTINF:-1 ,Наше новое кино
+udp://@224.200.231.10:1234
+#EXTINF:-1 ,Оружие
+udp://@224.200.202.79:1234
+#EXTINF:-1 ,Открытый мир
+udp://@224.200.204.19:1234
+#EXTINF:-1 ,Охотник и рыболов HD
+udp://@224.200.202.120:1234
+#EXTINF:-1 ,Поехали!
+udp://@224.200.204.2:1234
+#EXTINF:-1 ,Психология21
+udp://@224.200.202.92:1234
+#EXTINF:-1 ,РБК
+udp://@224.200.202.247:1234
+#EXTINF:-1 ,Родное кино
+udp://@224.200.231.11:1234
+#EXTINF:-1 ,Русский бестселлер
+udp://@224.200.240.6:1234
+#EXTINF:-1 ,Русский иллюзион
+udp://@224.200.202.122:1234
+#EXTINF:-1 ,Санкт-Петербург
+udp://@224.200.202.190:1234
+#EXTINF:-1 ,Синергия ТВ
+udp://@224.200.204.4:1234
+#EXTINF:-1 ,СТС Love
+udp://@224.200.202.209:1234
+#EXTINF:-1 ,Супер
+udp://@224.200.202.48:1234
+#EXTINF:-1 ,Тномер
+udp://@224.200.204.14:1234
+#EXTINF:-1 ,ТНТ 4
+udp://@224.200.202.45:1234
+#EXTINF:-1 ,ТНТ Music
+udp://@224.200.202.81:1234
+#EXTINF:-1 ,Центральное ТВ
+udp://@224.200.204.22:1234
+#EXTINF:-1 ,Че
+udp://@224.200.202.181:1234
+#EXTINF:-1 ,Шаян
+udp://@224.200.204.1:1234
+#EXTINF:-1 ,Ю
+udp://@224.200.202.35:1234
+#EXTINF:-1 ,AIVA Music HD
+udp://@224.200.202.102:1234
+#EXTINF:-1 ,Amedia Hit HD
+udp://@224.200.205.16:1234
+#EXTINF:-1 ,Amedia Premium HD
+udp://@224.200.205.29:1234
+#EXTINF:-1 ,Animal Planet
+udp://@224.200.239.1:1234
+#EXTINF:-1 ,BBC World News
+udp://@224.200.249.1:1234
+#EXTINF:-1 ,Big Asia
+udp://@224.200.202.245:1234
+#EXTINF:-1 ,Bloomberg European TV
+udp://@224.200.202.250:1234
+#EXTINF:-1 ,Bridge TV
+udp://@224.200.202.82:1234
+#EXTINF:-1 ,Bridge TV Русский Хит
+udp://@224.200.202.105:1234
+#EXTINF:-1 ,Bridge TV Dance
+udp://@224.200.202.106:1234
+#EXTINF:-1 ,Cartoon Network
+udp://@224.200.202.25:1234
+#EXTINF:-1 ,CBS Reality
+udp://@224.200.238.1:1234
+#EXTINF:-1 ,Da Vinci Learning
+udp://@224.200.234.13:1234
+#EXTINF:-1 ,Discovery Channel
+udp://@224.200.239.2:1234
+#EXTINF:-1 ,Discovery Science
+udp://@224.200.239.5:1234
+#EXTINF:-1 ,Disney
+udp://@224.200.202.88:1234
+#EXTINF:-1 ,DTX
+udp://@224.200.239.4:1234
+#EXTINF:-1 ,DW
+udp://@224.200.202.202:1234
+#EXTINF:-1 ,English Club TV
+udp://@224.200.202.234:1234
+#EXTINF:-1 ,Euronews 1
+udp://@224.200.202.11:1234
+#EXTINF:-1 ,Euronews 2
+udp://@224.200.202.249:1234
+#EXTINF:-1 ,Fashion TV
+udp://@224.200.202.10:1234
+#EXTINF:-1 ,Fox HD
+udp://@224.200.232.7:1234
+#EXTINF:-1 ,Fox Life HD
+udp://@224.200.232.8:1234
+#EXTINF:-1 ,France 24 (en Francais) HD
+udp://@224.200.202.201:1234
+#EXTINF:-1 ,France 24 (in English) HD
+udp://@224.200.202.200:1234
+#EXTINF:-1 ,HD Life
+udp://@224.200.202.218:1234
+#EXTINF:-1 ,HDMedia
+udp://@224.200.202.204:1234
+#EXTINF:-1 ,ID Xtra
+udp://@224.200.239.6:1234
+#EXTINF:-1 ,IZ.RU HD
+udp://@224.200.202.104:1234
+#EXTINF:-1 ,JimJam
+udp://@224.200.238.2:1234
+#EXTINF:-1 ,Kinosat
+udp://@224.200.204.10:1234
+#EXTINF:-1 ,MTV Dance
+udp://@224.200.202.47:1234
+#EXTINF:-1 ,MTV Hits
+udp://@224.200.202.107:1234
+#EXTINF:-1 ,MTV Rocks
+udp://@224.200.202.98:1234
+#EXTINF:-1 ,NASA TV HD
+udp://@224.200.249.6:1234
+#EXTINF:-1 ,Nasa TV UHD
+udp://@224.200.249.5:1234
+#EXTINF:-1 ,Nat Geo Wild HD
+udp://@224.200.232.5:1234
+#EXTINF:-1 ,National Geographic
+udp://@224.200.232.2:1234
+#EXTINF:-1 ,National Geographic Channel HD
+udp://@224.200.232.6:1234
+#EXTINF:-1 ,NHK World Japan
+udp://@224.200.202.26:1234
+#EXTINF:-1 ,Nickelodeon HD
+udp://@224.200.202.211:1234
+#EXTINF:-1 ,O!
+udp://@224.200.204.5:1234
+#EXTINF:-1 ,O2TV
+udp://@224.200.202.244:1234
+#EXTINF:-1 ,Outdoor Channel HD
+udp://@224.200.238.130:1234
+#EXTINF:-1 ,Paramount Comedy HD
+udp://@224.200.249.10:1234
+#EXTINF:-1 ,RT Doc HD
+udp://@224.200.202.125:1234
+#EXTINF:-1 ,RT HD
+udp://@224.200.205.7:1234
+#EXTINF:-1 ,RTG HD
+udp://@224.200.202.231:1234
+#EXTINF:-1 ,RTG TV
+udp://@224.200.202.232:1234
+#EXTINF:-1 ,RU.TV
+udp://@224.200.202.85:1234
+#EXTINF:-1 ,Sony Channel HD
+udp://@224.200.202.222:1234
+#EXTINF:-1 ,TLC
+udp://@224.200.239.3:1234
+#EXTINF:-1 ,Travel+Adventure HD
+udp://@224.200.202.214:1234
+#EXTINF:-1 ,TV 1000
+udp://@224.200.234.1:1234
+#EXTINF:-1 ,TV 1000 Русское кино
+udp://@224.200.234.9:1234
+#EXTINF:-1 ,TV 1000 Action
+udp://@224.200.234.10:1234
+#EXTINF:-1 ,UATV
+udp://@224.200.249.12:1234
+#EXTINF:-1 ,VH1 Classic
+udp://@224.200.236.129:1234
+#EXTINF:-1 ,Viasat Explore
+udp://@224.200.234.2:1234
+#EXTINF:-1 ,Viasat History
+udp://@224.200.234.3:1234
+#EXTINF:-1 ,Viasat Nature HD
+udp://@224.200.234.7:1234
+#EXTINF:-1 ,VIP Comedy HD
+udp://@224.200.234.5:1234
+#EXTINF:-1 ,VIP Megahit HD
+udp://@224.200.234.6:1234
+#EXTINF:-1 ,VIP Premiere HD
+udp://@224.200.234.4:1234
+#EXTINF:-1 ,VIP Serial HD
+udp://@224.200.234.14:1234
+#EXTINF:-1 ,Русская ночь
+udp://@224.200.231.7:1234
+#EXTINF:-1 ,Private HD
+udp://@224.200.238.10:1234
+#EXTINF:-1 ,Hustler HD
+udp://@224.200.238.3:1234
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/LloHzi4.png",Anytime TV (1080p)
+https://tv.anytimemedia.co.za:3673/hybrid/play.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/zdRvy87.png",BamBarBia TV (720p) [Not 24/7]
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/EJjfSWi.png",Beach TV CSULB (160p) [Not 24/7]
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/Nz5zM3H.png",BHA TV (1080p)
+https://streamer2.nexgen.bz/15-BHA/index.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/x90ALip.png",Go USA TV (720p)
+https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/IaRcN1G.png",GoTraveler (720p) [Geo-blocked]
+https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://player.castr.com/live_2e935360c78c11eea7a2615e1a7388f3
+https://stream.castr.com/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.fmp4.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/1JNrLxq.png",Journy (720p)
+https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/Jv4WiO6.png",Love in Venice (480p)
+https://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/kBol4Pf.png",Palm Beaches TV (720p)
+https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
+http://194.143.148.28:8080/RTG_HD/index.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/fcLFYhn.png",Tanzania Safari Channel
+https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",Travelxp (720p)
+https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png",Travelxp HD (1080p) [Geo-blocked]
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg",Turismo RDTV (720p)
+https://streamunoapp.com:3086/live/telemileniolive.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/g9j0ze8.png",Turistik TV (720p)
+https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/vBe1GgI.png",TV OFF
+https://seo.tv.bo/tv/TV-OFF.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/I6pKoBd.png",TV Paraná Turismo (720p) [Not 24/7]
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/lAkMrtr.png",TV Sayohi (1080p)
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/eXJm1n3.png",Телепутешествия
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="Undefined",Viasat History
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Arirang
+https://amg02040-amg02040c6-xiaomi-international-5845.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Billiards TV (EU)
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,NEW KPOP (EU)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Rakuten Viki (EU)
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,YG TV (EU)
+https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Bloomberg TV 4K (US)
+https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Bloomberg TV (EU)
+https://bloomberg-bloombergtv-3-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Boomberg Quicktake (EU)
+https://bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Rise Financial (EU)
+https://rise-financial-roi-tv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Demand Africa
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00017-theafricachanne-demandafrica-xiaomi/playlist.m3u8
+#EXTINF:-1 ,CNN News 18 India Geo
+https://amg00866-amg00866c1-xiaomi-in-3511.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CNN News 18 Geo
+https://amg00866-amg00866c5-xiaomi-in-3550.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CNBC TV 18 Geo
+https://amg00866-amg00866c2-xiaomi-in-3516.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,News 18 Madhya Pradesh Geo
+https://amg00866-amg00866c3-xiaomi-in-3553.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,News 18 Uttarakhand Geo
+https://amg00866-amg00866c4-xiaomi-in-3552.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,News 18 Tamil Nadu Geo
+https://amg00866-amg00866c6-xiaomi-in-3554.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,News 18 Gujarati Geo
+https://amg00866-amg00866c7-xiaomi-in-3551.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,News 18 Bangla Geo
+https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,TED Conferences (US)
+https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Cops (GB)
+https://langleyproductions-cops-2-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Lovestories TV (EU)
+https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Nosey other (EU)
+https://nosey-3-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Real Nosey (EU)
+https://nosey-realnosey-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Shade TV (EU)
+https://shadeiqllc-shadetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,The Red Green Show (EU)
+https://answermedia-theredgreenshow-2-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Ted Talks (EU)
+https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Crime and Punishment (US)
+https://rightsboosterltd-crime-and-punishment-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Conflict (US)
+https://rightsboosterltd-conflict-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Law and Crime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00260-lawnewzincdbala-lawandcrime-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Strongman Champions League (DE)
+https://rightsboosterltd-scl-2-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Super Simple Songs (EU)
+https://janson-supersimplesongs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Yu-Gi-Oh (GB)
+https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Yu-Gi-Oh (DE)
+https://fastmedia-yu-gi-oh-2-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Yu-Gi-Oh (ES)
+https://fastmedia-yu-gi-oh-5-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Yu-Gi-Oh (FR)
+https://fastmedia-yu-gi-oh-4-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Yu-Gi-Oh (IT)
+https://fastmedia-yu-gi-oh-3-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Naruto Geo
+https://amg00609-palatinmedia-amg00609c1-xiaomi-international-544.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-naruto-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Mr Bean Animated (IT) Geo
+https://amg00627-amg00627c29-xiaomi-international-4920.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Mr Bean Animated (ES) Geo
+https://amg00627-amg00627c30-xiaomi-international-4916.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Mr Bean Animated (FR) Geo
+https://amg00627-amg00627c31-xiaomi-international-4917.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Mr Bean Animated (BR) Geo
+https://amg00627-amg00627c35-xiaomi-international-4921.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Mr Bean Animated check
+https://amg00627-amg00627c32-xiaomi-international-4918.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanencc-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Travel XP (EU)
+https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Travel XP (EU) alt
+https://travelxp-travelxp-5-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Travel XP (DE)
+https://travelxp-travelxp-2-de.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Travel XP (FR)
+https://travelxp-travelxp-4-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Watch Mojo (EU)
+https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Trailers (UK) Geo
+https://amg01821-lovetv-amg01821c3-xiaomi-international-656.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailersuk-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Trailers (ES) Geo
+https://amg01821-lovetv-amg01821c2-xiaomi-international-650.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailerses-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Trailers (FR) Geo
+https://amg01821-lovetv-amg01821c4-xiaomi-international-657.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailersfr-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Trailers (DE) Geo
+https://amg01821-lovetv-amg01821c6-xiaomi-international-659.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-trailersde-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Top True Crime Geo
+https://amg00609-palatinmedia-amg00609c2-xiaomi-international-546.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-toptruecrime-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Craction TV Geo
+https://amg00609-palatinmedia-amg00609c3-xiaomi-international-547.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-craction-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,TopFilme Geo
+https://amg00609-palatinmedia-amg00609c4-xiaomi-international-1862.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-topfilme-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Drone TV (EU)
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Go USA (EU)
+https://brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Food (EU)
+https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Today's Homeowner (EU)
+https://janson-todayshomeowner-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Ditty TV (EU)
+https://memphisstudios-dittytv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Ditty TV (US)
+https://memphisstudios-dittytv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Whoa That Was Wild (EU)
+https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,BRB (EU)
+https://playworksdigital-brb-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Ninja Kidz TV (EU)
+https://playworksdigital-ninjakidztv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Jelly Jammy World
+https://amg01553-amg01553c1-xiaomi-in-5971.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Kids TV (US)
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,MoreU (EU)
+https://bec-moreu-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,MoreU (US)
+https://bec-moreu-1-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Xploration Station (GB)
+https://srpdigital-xplorationstation-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,WildEarth
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthgroupl-wildearth-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Vivaldi TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-xiaomi/playlist.m3u8
+#EXTINF:-1 ,My Padel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadle-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Flo Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-xiaomi/playlist.m3u8
+#EXTINF:-1 ,ComedyDynamics
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Mtrsprt 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Mav TV Geo
+https://amg00378-mavtv-amg00378c2-xiaomi-international-1789.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Strongmans Champion League (EU)
+https://rightsboosterltd-scl-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Outdoor Action (EU)
+https://careco-outdoor-action-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,La LA Life English
+https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
+#EXTINF:-1 ,Brightside English
+https://amg02051-soulpublishing-amg02051c9-xiaomi-international-385.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsideenglish-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Brightside Spanish Geo
+https://amg02051-soulpublishing-amg02051c16-xiaomi-international-371.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Cine Friki (IN) Geo
+https://amg00711-zylo-amg00711c1-xiaomi-in-1317.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinefriki-xiaomiin/playlist.m3u8
+#EXTINF:-1 ,Beond TV Geo
+https://amg01681-beondtv-amg01681c1-xiaomi-international-378.playouts.now.amagi.tv/playlist/amg01681-amg01681c1-277/playlist.m3u8
+#EXTINF:-1 ,Freetv Drama Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Freetv Sureno Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Freetv Terror Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Freetv Familia Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Freetv Accion Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcine-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Freetv Accion Latm Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Freetv Estella latm Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Freetv Estella us Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineus-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Tucine Europe (EU) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Cine Classico (EU) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cineclasicoeu-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Masterchef Brasil Geo
+https://amg00627-amg00627c9-xiaomi-international-4915.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmes8intl-xiaomi/playlist.m3u8
+#EXTINF:-1 ,MovieDome (UK)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Edgesports (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-edgesports-xiaomi/playlist.m3u8
+#EXTINF:-1 ,9XM (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-9xm-xiaomi/playlist.m3u8
+#EXTINF:-1 ,India TV (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-indiatv-xiaomi/playlist.m3u8
+#EXTINF:-1 ,SBT International (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sbtintl-xiaomi/playlist.m3u8
+#EXTINF:-1 ,TV9 Bangla (IN) Geo
+https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bangala-xiaomiin/playlist.m3u8
+#EXTINF:-1 ,TV9 Bharatvarsh (IN) Geo
+https://amg01106-tv9-amg01106c2-xiaomi-in-1187.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bharatvarsh-xiaomiin/playlist.m3u8
+#EXTINF:-1 ,TV9 Marathi (IN)
+https://amg01106-tv9-amg01106c3-xiaomi-in-1149.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9marati-xiaomiin/playlist.m3u8
+#EXTINF:-1 ,TV9 Kannada (IN) Geo
+https://amg01106-tv9-amg01106c6-xiaomi-in-1185.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9kannada-xiaomiin/playlist.m3u8
+#EXTINF:-1 ,TV9 Gujarati (IN) Geo
+https://amg01106-tv9-amg01106c7-xiaomi-in-1186.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9gujarathi-xiaomiin/playlist.m3u8
+#EXTINF:-1 ,ABP News (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Pitaara (Asia)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-pitaaraxiaomiin-xiaomi/playlist.m3u8
+#EXTINF:-1 ,India TV Speed News alt Geo
+https://amg01550-amg01550c3-xiaomi-in-4367.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvspeednews-xiaomiin/playlist.m3u8
+#EXTINF:-1 ,Mango TV (IN) Geo
+https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
+#EXTINF:-1 ,Mob TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Matchroom Boxing Geo
+https://amg02302-amg02302c2-xiaomi-international-5834.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,PDC Darts Geo
+https://amg02302-amg02302c3-xiaomi-international-5835.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Sport Outdoor TV (EU)
+https://gto2000-sportoutdoortv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Bike
+https://amg13231-amg13231c1-xiaomi-international-2911.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Skateboarding
+https://amg13231-amg13231c2-xiaomi-international-2913.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Snowboarder
+https://amg13231-amg13231c3-xiaomi-international-2914.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Inwild
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Inwonder
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-xiaomi/playlist.m3u8
+#EXTINF:-1 ,InTrouble
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Wannasee
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-wannasee-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Museum TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Museum TV (FR)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtvfr-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Drive TV La Chaine Auto (FR) Geo
+https://amg01796-amg01796c2-xiaomi-international-2756.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-drivetv-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Wasabi La Chaine Anime (FR) Geo
+https://amg01796-amg01796c3-xiaomi-international-2755.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-wasabii-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Le Figaro (FR) Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01767-secomiftvlefiga-lefigaro-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Qui veut gagner des millions Geo
+https://amg02393-awpg-amg02393c1-xiaomi-international-2301.playouts.now.amagi.tv/playlist/amg02393-awpg-quiveutgagnerdesmillions-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Lesanges Geo
+https://amg02393-awpg-amg02393c2-xiaomi-international-2300.playouts.now.amagi.tv/playlist/amg02393-awpg-lesanges--xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Les Z Amours Geo
+https://amg02393-awpg-amg02393c3-xiaomi-international-2303.playouts.now.amagi.tv/playlist/amg02393-awpg-leszamours-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Le Meilleur de la Tele-Realite Geo
+https://amg02393-awpg-amg02393c4-xiaomi-international-2302.playouts.now.amagi.tv/playlist/amg02393-awpg-lemeilleurdelatvrealite-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Love the Planet (ES) Geo
+https://amg01821-lovetv-amg01821c9-xiaomi-international-752.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovetheplanetsp-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,Clubbing TV
+https://clubbingtv-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Fusebeat (UK)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeatuk-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Latido Music Geo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00274-vidaprimo-latidomusic-xiaomi/playlist.m3u8
+#EXTINF:-1 ,CGTV (IT)
+https://cgentertainment-cgtv-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Serially Drama (IT)
+https://ixmediasrl-serially-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Serially Crime (IT)
+https://ixmediasrl-seriallycrime-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Risate al Sud (IT)
+https://ixmedia-srl-risatealsud-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Cinemasegreto (IT)
+https://minerva-cinemasegreto-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Fullmoon (IT)
+https://minerva-fullmoon-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Risate All Italiana
+https://minerva-risateallitaliana-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,The Boat Show (IT)
+https://boatshowtvsrl-theboatshow-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Sailing Channel (IT)
+https://vitormedia-sailingchannel-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,WP (IT)
+https://minerva-wp-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Chili Alta Tensione (IT)
+https://chili-chili-alta-tensione-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Chili Buonumore (IT)
+https://chili-chilibuonumore-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Chili Indimenticabili (IT)
+https://chili-chiliindimenticabili-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Chili Velvet (IT)
+https://chili-chilivelvet-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Chili Hip Hop TV (IT)
+https://chili-hiphop-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Chili Rock TV (IT)
+https://chili-rock-tv-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Sorrisi (IT)
+https://chili-film-sorrisi-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Bizzaro Movies (IT)
+https://minerva-bizzarromovies-1-it.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,123 Go! (ES)
+https://amg02051-soulpublishing-amg02051c9-xiaomi-international-385.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-xiaomiinternational/playlist.m3u8
+#EXTINF:-1 ,RCN Mas (EU)
+https://rcntv-rcnmas-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Flash Geo
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Charlie (EU)
+https://amogonetworx-charlie-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Telenovela TV (FR)
+https://stormcast-telenovelatv-1-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Bref Cinema (EU)
+https://lagenceducourtmetrage-brefcinema-01-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ETV (GB)
+https://sasuprimetv-etv-1-gb.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,ETV (FR)
+https://sasuprimetv-etv-2-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Pelimex (EU)
+https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Sonyone Compentencias (MX)
+https://spt-sonyonecompetencias-1-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Sonyone Sharktank (MX)
+https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Sony Comedias (MX)
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Sony Novelas (MX)
+https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
